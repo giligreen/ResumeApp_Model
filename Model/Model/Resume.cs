@@ -10,7 +10,8 @@ namespace Model
     {
         public string Path { get; set; }
         public string Class { get; set; }
-        public  IDictionary<string,int> AttributesValues { get; set; }
+        public  IDictionary<string,int> AttributesValuesDict { get; set; }
+        public string[] WordArr { get; set; }
 
 
         public Resume()

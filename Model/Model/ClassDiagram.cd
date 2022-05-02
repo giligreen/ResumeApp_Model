@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Model.MyAttribute">
+    <Position X="3.25" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAIAAAAAACAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.CsvFileHandler">
+    <Position X="8.75" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAgAAAAQ=</HashCode>
+      <FileName>CSVFileHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.DatabaseConstruction">
+    <Position X="6" Y="1" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAoAAEAIAAAAAAAAAAAAAAAAAAAUAAgAAAIY=</HashCode>
+      <FileName>DatabaseConstruction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.DecisionTree">
+    <Position X="0.5" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAKAAAAAAAACAAAIAAAAAAAAAiBEgAAAQA6AAEEAA=</HashCode>
+      <FileName>DecisionTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Resume">
+    <Position X="8.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAIAAAIAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Resume.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.TreeNode">
+    <Position X="0.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAQAAAAAAAAEAQAAAAABAAAAACAAIABAAA=</HashCode>
+      <FileName>TreeNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

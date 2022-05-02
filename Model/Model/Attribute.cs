@@ -9,19 +9,23 @@ namespace Model
 {
     public class MyAttribute
     {
+        /// שם התכונה
+        public string Name { get; }
+       
+        /// רשימת הערכים האפשריים לתכונה - 0 או 1
+        public List<string> DifferentAttributeNames { get; }
+
+        ///לתכונה Gain ערך 
+        public double InformationGain { get; set; }
+
+
         public MyAttribute(string name, List<string> differentAttributenames)
         {
             Name = name;
             DifferentAttributeNames = differentAttributenames;
         }
 
-        public string Name { get; }
-
-        public List<string> DifferentAttributeNames { get; }
-
-        public double InformationGain { get; set; }
-
-        public static List<string> GetDifferentAttributeNamesOfColumn(DataTable data, int columnIndex)
+        public static List<string> GetDifferentAttributeValuesOfColumn(DataTable data, int columnIndex)
         {
             var differentAttributes = new List<string>();
 

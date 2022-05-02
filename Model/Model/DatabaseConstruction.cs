@@ -15,7 +15,7 @@ using System.Data;
 
 namespace Model
 {
-    class DatabaseConstruction
+    static class DatabaseConstruction
     {
 
         /// <summary>

@@ -11,10 +11,13 @@ namespace Model
             string DataBaseForClassification_ExcelFile = @"my-files\‏‏DataBaseForClassification.xlsx";
             string DataBaseForClassification_CsvFile = @"my-files\FinialDataBaseForClassification.csv";
 
-            DatabaseConstruction.FillInDataBase(DataBaseForClassification_ExcelFile);
-            DataTable db = CsvFileHandler.ImportFromCsvFile(DataBaseForClassification_CsvFile);
-            TreeNode tree = DecisionTree.Learn(db, " ");
-            DecisionTree.Print(tree, tree.Name);
+         //   DatabaseConstruction.FillInDataBase(DataBaseForClassification_ExcelFile);
+            //DataTable db = CsvFileHandler.ImportFromCsvFile(DataBaseForClassification_CsvFile);
+            //TreeNode tree = DecisionTree.Learn(db, " ");
+            //DecisionTree.Print(tree, tree.Name);
+            //DecisionTree.SaveTreeIntoFile(tree);
+            DecisionTree t = new DecisionTree();
+            TreeNode tree2=t.LoadTreeFromFile(@"my-files/DecisionTree.xlsx");
         }
     }
 }

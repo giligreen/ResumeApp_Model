@@ -8,9 +8,28 @@ using System.Threading.Tasks;
 namespace Model
 {
     public class TreeNode
-    {
+    { 
+        //משמש למספור הצמתים
+        static int index = 0;
+
+        public int Id { get; set; }
+        public string Name { get; set; }
+
+        public string Edge { get; set; }
+
+        public MyAttribute NodeAttribute { get; set; }
+
+        public List<TreeNode> ChildNodes { get; set; }
+
+        public int TableIndex { get; set; }
+
+        public bool IsLeaf { get; set; }
+
+        public TreeNode() { }
+
         public TreeNode(string name, int tableIndex, MyAttribute nodeAttribute, string edge)
         {
+            Id = index++;
             Name = name;
             TableIndex = tableIndex;
             NodeAttribute = nodeAttribute;
@@ -20,21 +39,12 @@ namespace Model
 
         public TreeNode(bool isleaf, string name, string edge)
         {
+            Id = index++;
             IsLeaf = isleaf;
             Name = name;
             Edge = edge;
         }
 
-        public string Name { get; }
-
-        public string Edge { get; }
-
-        public MyAttribute NodeAttribute { get; }
-
-        public List<TreeNode> ChildNodes { get; }
-
-        public int TableIndex { get; }
-
-        public bool IsLeaf { get; }
+       
     }
 }

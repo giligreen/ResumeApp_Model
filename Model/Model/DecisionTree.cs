@@ -4,12 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data;
+using ClosedXML.Excel;
 
 namespace Model
 {
     public class DecisionTree
     {
         public TreeNode Root { get; set; }
+        
+        
 
         public static void Print(TreeNode node, string result)
         {
@@ -17,32 +20,32 @@ namespace Model
             {
                 var seperatedResult = result.Split(' ');
 
-                foreach (var item in seperatedResult)
-                {
-                    if (item.Equals(seperatedResult[0]))
-                    {
-                        Console.ForegroundColor = ConsoleColor.Magenta;
-                    }
-                    else if (item.Equals("--") || item.Equals("-->"))
-                    {
-                        // empty if but better than checking at .ToUpper() and .ToLower() if
-                    }
-                    else if (item.Equals("YES") || item.Equals("NO"))
-                    {
-                        Console.ForegroundColor = ConsoleColor.Green;
-                    }
-                    else if (item.ToUpper().Equals(item))
-                    {
-                        Console.ForegroundColor = ConsoleColor.Cyan;
-                    }
-                    else
-                    {
-                        Console.ForegroundColor = ConsoleColor.Yellow;
-                    }
+                //foreach (var item in seperatedResult)
+                //{
+                //    if (item.Equals(seperatedResult[0]))
+                //    {
+                //        Console.ForegroundColor = ConsoleColor.Magenta;
+                //    }
+                //    else if (item.Equals("--") || item.Equals("-->"))
+                //    {
+                //        // empty if but better than checking at .ToUpper() and .ToLower() if
+                //    }
+                //    else if (item.Equals("YES") || item.Equals("NO"))
+                //    {
+                //        Console.ForegroundColor = ConsoleColor.Green;
+                //    }
+                //    else if (item.ToUpper().Equals(item))
+                //    {
+                //        Console.ForegroundColor = ConsoleColor.Cyan;
+                //    }
+                //    else
+                //    {
+                //        Console.ForegroundColor = ConsoleColor.Yellow;
+                //    }
 
-                    Console.Write($"{item} ");
-                    Console.ResetColor();
-                }
+                //    Console.Write($"{item} ");
+                //    Console.ResetColor();
+                //}
 
                 Console.WriteLine();
 
@@ -51,24 +54,26 @@ namespace Model
 
             foreach (var child in node.ChildNodes)
             {
+                if (child != null) { 
                 Print(child, result + " -- " + child.Edge.ToLower() + " --> " + child.Name.ToUpper());
+                                }
             }
         }
 
-        public static void PrintLegend(string headline)
-        {
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine($"\n{headline}");
-            Console.ForegroundColor = ConsoleColor.Magenta;
-            Console.WriteLine("Magenta color indicates the root node");
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Yellow color indicates an edge");
-            Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("Cyan color indicates a node");
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Green color indicates a decision");
-            Console.ResetColor();
-        }
+        //public static void PrintLegend(string headline)
+        //{
+        //    Console.ForegroundColor = ConsoleColor.White;
+        //    Console.WriteLine($"\n{headline}");
+        //    Console.ForegroundColor = ConsoleColor.Magenta;
+        //    Console.WriteLine("Magenta color indicates the root node");
+        //    Console.ForegroundColor = ConsoleColor.Yellow;
+        //    Console.WriteLine("Yellow color indicates an edge");
+        //    Console.ForegroundColor = ConsoleColor.Cyan;
+        //    Console.WriteLine("Cyan color indicates a node");
+        //    Console.ForegroundColor = ConsoleColor.Green;
+        //    Console.WriteLine("Green color indicates a decision");
+        //    Console.ResetColor();
+        //}
 
 
 
@@ -114,7 +119,7 @@ namespace Model
             return result;
         }
 
-       
+
         /// <summary>
         ///     פונקציה שלומדת את הנתונים מתאמנת ובונה עץ החלטה בצורה רקורסיבית (fit() בפיתון- הפונקציה )      
         /// </summary>
@@ -123,22 +128,27 @@ namespace Model
         /// <returns></returns>
         public static TreeNode Learn(DataTable data, string edgeName)
         {
-            var root = GetRootNode(data, edgeName);
-
-            foreach (var item in root.NodeAttribute.DifferentAttributeNames)
+            if (data.Columns.Count == 2)
             {
-                // if a leaf, leaf will be added in this method
-                var isLeaf = CheckIfIsLeaf(root, data, item);
-
-                // make a recursive call as long as the node is not a leaf
-                if (!isLeaf)
-                {
-                    var reducedTable = CreateSmallerTable(data, item, root.TableIndex);
-
-                    root.ChildNodes.Add(Learn(reducedTable, item));
-                }
+                Console.WriteLine("בדיקה");
             }
+            
+                var root = GetRootNode(data, edgeName);
 
+                foreach (var item in root.NodeAttribute.DifferentAttributeNames)
+                {
+                    // אם זה עלה, העלה יתווסף בפונקציה זו
+                    var isLeaf = CheckIfIsLeaf(root, data, item);
+
+                    // בצע קריאה רקורסיבית כל עוד הצומת אינו עלה
+                    if (!isLeaf)
+                    {
+                        var reducedTable = CreateSmallerTable(data, item, root.TableIndex);
+
+                        root.ChildNodes.Add(Learn(reducedTable, item));
+                    }
+                }
+          
             return root;
         }
 
@@ -214,30 +224,30 @@ namespace Model
 
 
         /// <summary>
-        /// פונקציה שמוצאת את שורוש העץ
+        /// פונקציה שמוצאת את שורש העץ
         /// </summary>
         /// <param name="data">טבלת נתונים- בפעם הראשונה הטבלה כולה, בפעמים הבאות טבלה מוקטנת </param>
         /// <param name="edge">הקשת הקודמת שמובילה לפיצול זה בפעם הראשונה מתקבל ערך ריק</param>
         /// <returns></returns>
         private static TreeNode GetRootNode(DataTable data, string edge)
-        {
+        { 
             var attributes = new List<MyAttribute>();
             var highestInformationGainIndex = -1;
             var highestInformationGain = double.MinValue;
-
-            // Get all names, amount of attributes and attributes for every column             
+            
+            //   קבל את כל הערכים השונים עבור כל עמודה - תכונה      
             for (var i = 0; i < data.Columns.Count - 1; i++)
             {
-                var differentAttributenames = MyAttribute.GetDifferentAttributeNamesOfColumn(data, i);
-                attributes.Add(new MyAttribute(data.Columns[i].ToString(), differentAttributenames));
+                var differentAttributevalues = MyAttribute.GetDifferentAttributeValuesOfColumn(data, i);
+                attributes.Add(new MyAttribute(data.Columns[i].ToString(), differentAttributevalues));
             }
-
-            // Calculate Entropy (S)
+            
+            // חשב אנטרופיה
             var tableEntropy = CalculateTableEntropy(data);
 
             for (var i = 0; i < attributes.Count; i++)
             {
-                attributes[i].InformationGain = GetGainForAllAttributes(data, i, tableEntropy);
+                attributes[i].InformationGain = GetGainForAttribute(data, i, tableEntropy);
 
                 if (attributes[i].InformationGain > highestInformationGain)
                 {
@@ -245,7 +255,10 @@ namespace Model
                     highestInformationGainIndex = i;
                 }
             }
-
+            if (highestInformationGainIndex<0)
+            {
+                Console.WriteLine("aaa");
+            }
             return new TreeNode(attributes[highestInformationGainIndex].Name, highestInformationGainIndex, attributes[highestInformationGainIndex], edge);
         }
 
@@ -258,7 +271,7 @@ namespace Model
         /// <param name="colIndex"> Attribute -  מספר העמודה  </param>
         /// <param name="entropyOfDataset">אנטרופיה כללית לטבלה - לפני הפיצול הרצוי</param>
         /// <returns></returns>
-        private static double GetGainForAllAttributes(DataTable data, int colIndex, double entropyOfDataset)
+        private static double GetGainForAttribute(DataTable data, int colIndex, double entropyOfDataset)
         {
             var totalRows = data.Rows.Count;
             var amountForDifferentValue = GetAmountOfEdgesAndTotalResults(data, colIndex);
@@ -266,7 +279,8 @@ namespace Model
 
             foreach (var item in amountForDifferentValue)
             {
-                // helper for calculation
+                // עבור כל תחום – חישוב היחס בין כמות הדוגמאות שסווגו 
+                //לתחום מתוך כל הדוגמאות שרלוונטיות לפיצול הנוכחי
                 var firstDivision = item[0, 1] / (double)item[0, 0];
                 var secondDivision = item[0, 2] / (double)item[0, 0];
                 var thirdDivision = item[0, 3] / (double)item[0, 0];
@@ -275,14 +289,14 @@ namespace Model
                 var sixthDivision = item[0, 6] / (double)item[0, 0];
 
                 // prevent dividedByZeroException
-                if (firstDivision == 0 || secondDivision == 0 || thirdDivision == 0 || fourthDivision == 0 || fifthDivision == 0 || sixthDivision == 0)
-                {
-                    stepsForCalculation.Add(0.0);
-                }
-                else
-                {
-                    stepsForCalculation.Add(-firstDivision * Math.Log(firstDivision, 2) - secondDivision * Math.Log(secondDivision, 2) - thirdDivision * Math.Log(thirdDivision, 2) - fourthDivision * Math.Log(fourthDivision, 2) - fifthDivision * Math.Log(fifthDivision, 2) - sixthDivision * Math.Log(sixthDivision, 2));
-                }
+                stepsForCalculation.Add(
+                          (firstDivision == 0 ? 0 : -firstDivision * Math.Log(firstDivision, 2))
+                        - (secondDivision == 0 ? 0 : secondDivision * Math.Log(secondDivision, 2))
+                        - (thirdDivision == 0 ? 0 : thirdDivision * Math.Log(thirdDivision, 2))
+                        - (fourthDivision == 0 ? 0 : fourthDivision * Math.Log(fourthDivision, 2))
+                        - (fifthDivision == 0 ? 0 : fifthDivision * Math.Log(fifthDivision, 2))
+                        - (sixthDivision == 0 ? 0 : sixthDivision * Math.Log(sixthDivision, 2))
+                        );
             }
 
             var gain = stepsForCalculation.Select((t, i) => amountForDifferentValue[i][0, 0] / (double)totalRows * t).Sum();
@@ -305,8 +319,10 @@ namespace Model
 
             var stepsForCalculation = amountForDifferentValue
                 .Select(item => item[0, 0] / (double)totalRows)
-                .Select(division => -division * Math.Log(division, 2))
+                .Select(division => division == 0 ? 0 : -division * Math.Log(division, 2))
                 .ToList();
+
+
 
             return stepsForCalculation.Sum();
         }
@@ -382,7 +398,7 @@ namespace Model
 
 
         /// <summary>
-        ///  העמודה המסויימת- Attributeפונקציה שמחזירה רשימה של הסוגים השונים של ה
+        ///  העמודה המסויימת- Attributeפונקציה שמחזירה רשימה של הערכים השונים של ה
         /// </summary>
         /// <param name="data">טבלת הנתונים</param>
         /// <param name="indexOfColumnToCheck">העמודה לבדיקה</param>
@@ -408,5 +424,73 @@ namespace Model
 
             return knownValues;
         }
-    }
+
+
+
+        static int staticRow;
+        public static void SaveTreeIntoFile(TreeNode tree)
+        { 
+            var path = @"my-files/DecisionTree.xlsx";
+            var wbook = new XLWorkbook(path);
+            var ws1 = wbook.Worksheet(1);
+            staticRow = 1;
+            RecToSaveTreeIntoFile(tree, ws1, -1);
+            wbook.Save();
+        }
+
+        public static void RecToSaveTreeIntoFile(TreeNode tree, IXLWorksheet ws, int parentId)
+        {
+            if (tree!=null)
+            {
+
+            
+            staticRow++;
+            ws.Cell(staticRow, 1).SetValue<int>(tree.Id);
+            ws.Cell(staticRow, 2).SetValue<string>(tree.Name);
+            ws.Cell(staticRow, 3).SetValue<string>(tree.Edge);
+            ws.Cell(staticRow, 4).SetValue<string>(tree.IsLeaf.ToString());
+            ws.Cell(staticRow, 5).SetValue<int>(tree.TableIndex);
+            ws.Cell(staticRow, 6).SetValue<int>(parentId);
+            if (!tree.IsLeaf)
+            {
+                RecToSaveTreeIntoFile(tree.ChildNodes[0], ws, tree.Id);
+                if(tree.ChildNodes.Count>1)
+                    RecToSaveTreeIntoFile(tree.ChildNodes[1], ws, tree.Id);
+            }
+            }
+        }
+
+     
+        public  TreeNode LoadTreeFromFile(string path)
+        {
+            var wbook = new XLWorkbook(path);
+            var ws = wbook.Worksheet(1);
+            staticRow = 1;
+            TreeNode root= RecToLoadTreeFromFile(ws);
+            return root;
+        }
+
+        public  TreeNode RecToLoadTreeFromFile(IXLWorksheet ws)
+        {
+            staticRow++;
+            if (staticRow <=ws.RowsUsed().Count())
+            {
+            TreeNode newNode = new TreeNode();
+            newNode.Id =Convert.ToInt32( ws.Cell(staticRow, 1).Value);
+            newNode.Name = ws.Cell(staticRow, 2).Value.ToString();
+            newNode.Edge = ws.Cell(staticRow, 3).Value.ToString();
+            newNode.IsLeaf =Convert.ToBoolean( ws.Cell(staticRow, 4).Value);
+            newNode.TableIndex = Convert.ToInt32(ws.Cell(staticRow, 5).Value);
+            if (!newNode.IsLeaf) {
+                newNode.ChildNodes = new List<TreeNode>();
+               newNode.ChildNodes.Add(RecToLoadTreeFromFile(ws));
+               newNode.ChildNodes.Add(RecToLoadTreeFromFile(ws));
+            }
+           
+            return newNode;
+            }
+            return null;
+        }
+
+    } 
 }
