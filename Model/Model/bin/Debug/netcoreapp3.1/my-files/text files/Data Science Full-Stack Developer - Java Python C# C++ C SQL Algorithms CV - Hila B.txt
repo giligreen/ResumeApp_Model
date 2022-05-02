@@ -1,0 +1,77 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+Data Science \ Full-Stack Developer
+Java \ Python \ C# \ C++ \ C \ SQL \ Algorithms
+kaila boren
+kailaq1@gmail.com     |    042-592-4498    |   Tel-Aviv
+Lindin.com/hila -62b3419a/
+
+ Summary 
+● Looking for Full-Stack Developer \ Data Science positions.
+● 5 years Full-Stack developer with OOP, MySQL, Unix, Data Analytics. 
+● M.Sc. in Computer Science (85 GPA), Bar Ilan University, A.I. and Algorithms experty. 
+● B.Sc. in Computer Science with honors (92 GPA). 
+● Machine learning models I used: KNN, SVM, DT, Random Forest, Bagging , ADABoost, GBoost, XGBoost, Voting.
+● Highly-skilled software developer, Fast and autonomous learner, Team player with skills of problems solving and time management.
+
+Experience
+2015 - 2020   Software Engineer (Backend), Amdocs, IL
+Delivery team:
+• Analysing designing and developing code in Object Oriented Language.
+• Working in Unix servers and SQL databases.
+• Reading and analysing XMLs documents.
+• Code testing and maintenance.
+• Designing and writing Detail Design and Change Request
+• Creating Hotfix
+Production team:
+• Create data reports for customers.
+• Solving tickets and defects, and locating bugs.
+• Provide remote and on-site support.
+• Providing support to R&D teams.
+• Deliver features from design through implementation to production.
+
+Education
+2012-2019   Master of Science:  Computer Science, AI expert, Bar Ilan University, GPA 85
+            
+           Final Project - Machine learning and Data science, Final Grade 94
+	   Developed in Python (sk-learn,pandas,matplotlib,numpy,seaborn etc)
+	    Using git distributed version control system
+● Developing machine learning models, with focus on feature selection algorithms and algorithm parameters investigation. 
+● The machine learning models achieved 96% success at classification. 
+● Machine learning models I used in the project: KNN, SVM, DT, Random Forest,Bagging ,ADABoost, GBoost, XGBoost,Voting.
+
+
+2009-2012    B.Sc. Computer Science, Ashkelon Academic college, Final grade: 92 with honors
+Final Project - Developing web based system for academic institution - Final Grade 90
+Developing a web based system for academic institutions, the system holds student's grades data and statistics and graph analysis.
+Developed in PHP, Javascript, MySql
+
+Projects 
+2019    Final project M.Sc – Python + git
+Final Project -Machine learning and Data science: Developing machine learning models, with focus  	on feature selection algorithms and algorithm parameters investigation.
+Developed in python, using git distributed version control system. 
+● The dataset was a description of movement of two types of locusts (gregarious and solitary ) over a donut shaped arena, and the goal was to distinguish between the 2 locusts types based only on the data of the movement with machine learning models. 
+
+Languages 
+Hebrew - native language 
+English - fluent
+
+Programing Skills 
+C, C++, C#, Java, Python, PHP, Javascript, HTML, PHP, Node.js, Matlab, SQL
+Object Oriented Programming, Design Patterns, Data Structures and Git.
+
+Military Service
+2006-2007   Tour guide for High school students
+2007-2008   Manager of all youth movements and manager of all volunteering projects. 
+● Setting mutual meetings between leaders of each youth movement
+● Setting connections and mutual activities between secular and religious groups, 
+● Taking care of technical issues of youth movements or volunteering projects and solving them in front of the municipality.
+
+
+
+
+
+
+ 
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

@@ -1,0 +1,63 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+
+Electrical Eng. - Verification \ Board Design\ VLSI \ Physical Design \ Product Engineer
+Ofir Atash
+052-541-1468   |      ofir.atash@gmail.com     |     Tel-Aviv
+          www.linkedin.com
+
+Summary
+● Looking for Hardware Engineer Position: Chip / Logic / Board Design, Verification, VLSI, Physical Design, etc. 
+● 2 years experience as product hardware engineer in a Multidisciplinary company working with IDF Cyber Unit.
+● B.Sc. in Electrical Engineering, Specializing in electro-optic, Nano Electronics and VLSI.
+● Experience in R&D lab as product engineer working closely with cross organization teams, doing manual tests and debugging, managing tasks and groups of mechanical assemblers and solderers.
+● Problem solver, getting things done, team player, ‘can do’ approach, quick learner, hard worker, technical sense.
+● Proactive, highly-organized, and able to manage multiple tasks, desire to learn
+● Excellent performance in a multi-task environment, ability to stay on schedule and work both independently and in a team.
+
+Experience
+2018 - 2020	Product Engineer, HighSecLabs
+		HighSecLabs develops high-quality cyber-defense solutions (secure KVMs, VoIP
+		phones and more)
+● Working directly under the CEO.
+● Responsible for all aspects of complex products (program, hardware, mechanics, debugging, QA, purchasing, customer requirements and technical assistance, shipments, ECOs, production line).
+● Ability to create testing documentation, leading integration process through to product creation, ability to move from development to production
+● Prioritizing tasks with related teams.
+● Experience with integration and interaction with development teams, ability to read software code
+● Collaboration with multiple teams across the organization such as: Hardware, Mechanics, QA and Software.
+● Approving NPI and Mechanics.
+● Hands-on experience in board debugging and testing.
+● Experience with oscilloscopes, signal generators and other lab equipment
+● Doing bring ups & debugging using Orcad & Allegro.
+● Fault documentation on products that return from the customer.
+● Writing user guides, assemble instructions and test plans.
+
+Projects
+2016	Trinary Gain cell embedded DRAM
+Designing 5T Multi level eDRAM that can store, read and write 3 logic levels, this way we can save on power and space. Designing the read circuit so we can distinguish between 3 levels. All was built and simulated at cadence virtuoso 65 nm TSMC technology.
+
+Education
+2011 - 2018         B.Sc. Electric Engineer, Bar Ilan University GPA 78
+● Majoring Electro optics & Nano electronics, VLSI.
+● Knowledge of programming languages: C, C++, Verilog, MATLAB.
+● Final project grade 97
+
+Courses
+2021	RF & Microwave engineering certification - Interlligent 
+	Learning RF basics (amplifiers, filters, passive components etc.) and doing RF measures with test
+equipment suchs as signal generator, spectrum analyzer and network analyzer.
+2021	Advanced industry preparation - Moona
+Practical and hands on experience creating prototype with mobile app using arduino.
+2012	Personal coaching certificate.
+
+Skills
+Laboratory equipment: Oscilloscope, Signal Generator, Network Analyzer, etc.
+Programming knowledge: C, C++, Verilog.
+
+Army
+2004 – 2007	Artillery corps, Full service 	
+
+Languages
+Hebrew: Native language
+English:  Very good (Read, Write, Verbal). 
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

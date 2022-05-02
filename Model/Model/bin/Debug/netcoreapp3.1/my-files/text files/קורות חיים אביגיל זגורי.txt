@@ -1,0 +1,44 @@
+﻿זגורי אביגיל
+· · ·
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+אביגיל תפרין– הנדסאית תוכנה
+פרטים אישיים
+שם: אביגיל תפרין
+ת.ז: 318785495
+כתובת: הקבלן 12 צפת
+טלפון: 0504456034  
+דוא"ל: 45ailz1997@gmail.com
+תאריך לידה: 02.06.1999
+השכלה
+2016-2017 - הנדסת תכנה ב"בנות אלישבע" ירושלים- לימודים לתואר הנדסאי תכנה מטעם "משרד החינוך" (המכללה הטכנולוגית).  ממוצע ציונים 98
+   2012-2015  -  תיכון "בנות אלישבע" ירושלים, 
+   מגמה טכנולוגית: מדעי המחשב , 11 יחידות  בגרות מדעי המחשב בהצלחה.
+ידע וניסיון
+• קורסים: מערכות הפעלה, מבני נתונים ויעילות אלגוריתמים, תקשורת ורשתות, ארכיטקטורה, ארגון קבצים, מערכות ספרתיות, אלגברה לינארית, יסודות הנדסת תוכנה, אנגלית טכנית, אסמבלר, שפת C, SQL, ניתוח מערכות, C#, java, MVC,WCF , android,,BI  Big Data & No SQL.
+• שפות תכנות: Java  ,SQL ,Html ,Html5 ,Java Script ,jQuery ,C ,C#, .assembler
+• ידע וניסיון:,WinForms  ,Entity Framework ,WCF ,MVC ,VB.NET ,Mongo-DB, angular1 ,WebAPI  Android, java. 
+• סביבות עבודה: Android Studio ,Android SDK ,Eclipse ,Net Beans ,Visual Studio. 
+• מערכות הפעלה: unix ,windows ,android.
+• מסדי נתונים: Microsoft SQL Server, Microsoft Access
+·  נסיון תעסוקתי: פרויקט גמר - פיתוח קומפיילר מסוג source to source, עבור שפה עילית חדשה המשמשת ללימוד שפת תיכנות עבור תלמידים צעירים וכן הכנסת עולם התיכנות אל מודעתם תוך פיתוח חשיבתם הלוגית, הקומפילר בודק את תקינות דקדוק השפה הרקורסיבי תוך מיפוי שגיאות מפורט ומבצע תרגום קוד התלמיד לשפת JavaScript וכן הרצת הקוד על ממשק המשתמש. הקומפיילר פותח בשפת C#, תוך שימוש בשרת בטכנולוגיית .MVC  צד הלקוח פותח ב JavaScript בשילוב Jquery.
+•   לימוד עצמי של ספריות ותכנים בתחומים שונים.
+· פיתוח אפליקציות ל-(android-java) mobile.
+· פיתוח אפליקציות win forms.
+· פיתוח אפליקציות web.
+· פיתוח תכנת ניהול לו"ז עבור בריכת שחיה ושינוי דינמי בהתחשב באילוצים.  התכנה פותחה ב-VB תוך התקשרות לבסיס נתונים ב- Access.
+
+תוכנות מחשב נוספות:
+· הכרת תוכנות Office ברמה גבוהה: Power Point, Visio, Word, Excel.
+  כישורים
+כושר לימוד עצמי וגישה יסודית, בעלת מוטיבציה, מוסר עבודה גבוה, אחריות, התמדה,
+דיוק ועמידה בזמנים, יצירתיות, חשיבה לוגית, יכולת התמודדות במצבי לחץ, וקליטה מהירה.
+יחסי אנוש מעולים ויכולת עבודה בעבודת צוות.
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+שפות: עברית שפת אם, אנגלית טכנית ברמה  גבוהה.
+
+גיליון ציונים והמלצות יימסרו על פי דרישה.
+
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

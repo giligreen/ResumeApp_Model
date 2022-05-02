@@ -1,0 +1,76 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+Senior Software Engineer
+.Net \ C# \ C++ 
+Eli Kaufman
+054-566-4457    |     ely.kaufman@gmail.com     |    Jerusalem
+ www.linkedin.com/in/eli-kaufman1
+
+Summary
+● Senior Software developer in variety of technologies and global companies: NDS, Cisco, Synamedia
+● Development Technologies:
+.Net, C#, C++, C++ / CLI, WCF, EF, IIS, SQL Server, Real Time, Unix, Python, SVN, Jenkins
+● Integration between .NET and Unmanaged C++ Code
+● M.Sc. Computer Science, the Hebrew University, B.Sc. Computer Engineering.
+
+Experience
+2018 – Present	Senior Software Developer, Synamedia
+● Rewrite C++ libraries from old STL to VS 2019 C++ 17
+● Transfer C++ library from Android to VS 20 2019
+● Upgrade an old program and make it into a library. The program recognized a pattern in streaming video using a sampling card that is not supported anymore. The upgrade used standard tools, like: Video Encoder, FFmpeg, VLC.
+● Rewrite a library that displays trees from Proprietary Library to a Public Domain Library.
+
+2015 – 2018        Senior Software Staff Engineer, NDS \ Cisco
+● Leading investigations and Full Stack complex log analysis for Tier 1 customers.
+● Write tools for supporting the CI
+● Develop tools to control IIS.
+● Develop end to end system for web services based on IIS for rich window clients.
+
+
+2005 – 2014      Senior Software Engineer, NDS \ Cisco
+● Leading development that enables 30+ QA engineers to move from manual testing to automated testing. We simulate a few Pay-TV Servers by developing a few libraries that use a unified codebase. These libraries served a few applications:
+o Managed Windows Applications
+o Unmanaged C++ Test-Automation
+o SSL IIS based WCF Web Services
+This development significantly shortened the test cycle from two weeks into one night and enhanced test quality.
+
+1998 - 2005	 Software Engineer, NDS
+● Developing Simulators and test tools for protocol analyzers that enabled test quality in a period of accelerated growth.
+● Development technologies: VB6, COM, ATL, C++.
+
+1995 - 1998	  Software Quality Engineer, NDS
+● Lead QA and test automation at the first Digital TV project.
+● Lead QA tests for secure embedded software that executed security functions on the set-top box.
+● Lead test simulation at department that is responsible on secure 
+● Run and analyze half manual tests.
+● Write STD.
+
+1992 - 1995 	  Software Engineer, Israel Aerospace Industries \ Malam
+● Develop a real time test environment using C
+● Lead design of automatic switching between hardware and software components. 
+● Transfer the system to Unix.
+
+Education
+1990 – 1992	M.Sc. Computer Science, the Hebrew University Jerusalem
+1984 – 1988 	B.Sc. Computer Engineering, Jerusalem College of Technology (Machon Lev).
+
+
+Professional Courses
+DevOps 		- From Zero to Continuous Delivery.
+Node.JS		- Real time web applications with Node.js and Express.js.
+Object-Oriented	- Design Patterns & Refactoring Advanced Object Oriented 
+  Design.
+Analysis & Design with UML
+Android development - Developing Android Applications.
+
+Army
+Network administrator at the ordnance corps headquarters
+
+Recommendations will be given by demand
+
+
+
+
+
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

@@ -1,0 +1,66 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+Experienced Full-Stack Developer Java \ C# \ JavaScript \ Nodejs
+Menachem Mishan
+052-523-0186     |      mishanm8@gmail.com     |     Ashdod
+Linkedin.com/in/menahem-mishan
+Github.com/MenyMishan
+Summary
+● 1 year of experience as FullStack Developer in Java, C#, SQL 
+● Looking for Fullstack and Backend Developer positions in Java, C#, SQL, Cloud, JavaScript, Angular/React.
+● Experience developing Full-Stack solutions for medium-scale companies like: Gett, R2M, BConnect.  
+● I am motivated for my next challenge in a company looking for a quick learner and team player to produce robust solutions.
+● B.Sc. in Mechanical Engineering, 
+
+Experience 
+2020 – Present     Full-Stack Developer - C#, SQL Server -  Inspiria 
+● develop the backend for the customers so that their ERP system integrates with the rest of the  
+               systems  smoothly with C#, SQL.
+● Delivered many successful systems that help companies (Gett, R2M, BConnect) to improve business 
+               performance.
+● Optimized legacy solutions by refactoring and producing better results.
+
+2018 – 2019     Mechanical Engineer,  Psk Technologies \ Rafael 
+●  Design of a transport and operation system for a radar antenna.
+
+    2016 – 2017    Mechanical Engineer (Student Position),  A. Geron Engineering Ltd
+● Modeling parts and assemblies in SolidWorks software
+
+2012 – 2016    Beit Hayeled -  A guide in an apartment for autistic people.
+
+Projects
+                  2020      IOT Infrastructure Project  - JAVA, MySQL, Http, TCP & UDP , HTML - Infinity project 
+● Developed a generic IoT infrastructure to store and analyze data from smart home devices.
+● Clean and organized code, Design patterns, API Etc. 
+● Various networking protocols – TCP, UDP. HTTP
+● Multithreaded programming
+ 2021       FileServer - JAVA
+● Client-server architecture, based on TCP protocol
+● Operations: upload files, get files list, get files.  
+● Handles many customers simultaneously.
+
+
+Courses
+2021      Node.js and JavaScript Course, Udemy 
+
+2021      Spring - JAVA, Udemy 
+
+2019 - 2020: Bootcamp - Linux, C,  Java, Html, css, JavaScript -  Infinity Labs R&D, Ramat Gan
+● Ten months of a unique and intensive training program designed to transform excellent graduates into experienced software developers. 
+● During the degree, I gained experience through projects that bridged the theoretical and practical gap and specialized in Java and web development.
+
+Education
+2013 – 2017     B.Sc. in Mechanical Engineering, Ariel University 
+● Final Project – I created a Seat Stabilizer for people in a wheelchair. Combined motor and gears to adapt the seating surface according to the desired direction and speed.
+Military Service
+2007 – 2010  Golani, Training base Lachish - A combat medic.
+
+
+
+
+
+
+
+
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

@@ -1,0 +1,54 @@
+﻿ריקי שפירא- הנדסאית תוכנה
+
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+צילי המר – הנדסאית תוכנה
+פרטים אישיים
+שם: צילי המר
+ת.ז: 317854656
+כתובת: מנהר 24 רמת אלחנן 
+טלפון: 0578549067
+דוא"ל: tzili067@gmail.com
+תאריך לידה: 24/11/1987 
+השכלה
+2016-2017 - הנדסת תכנה ב"בנות אלישבע" ירושלים- לימודים לתואר הנדסאי תכנה מטעם "משרד החינוך" (המכללה הטכנולוגית).  ממוצע ציונים 96
+   2011-2014  -  תיכון "בנות אלישבע" ירושלים, 
+   מגמה טכנולוגית: מדעי המחשב , 11 יחידות  בגרות מדעי המחשב בהצטיינות.
+ידע וניסיון
+• קורסים: מערכות הפעלה, מבני נתונים ויעילות אלגוריתמים, תקשורת ורשתות, ארכיטקטורה, ארגון קבצים, אסמבלר, שפת C, אנגלית טכנית, SQL, ניתוח מערכות,C#, JAVA, MVC,WCF, Andriod,מערכות ספרתיות, אלגברה לינארית, BigData&NoSQL.
+• שפות תכנות: Java ,Android ,VB.NET  ,MVC ,SQL ,Html ,Html5 ,Java Script ,jQuery ,angular, C C#.
+• ידע וניסיון:,WinForms  ,Entity Framework ,Mongo-DB , WebAPI, Java, WCF  Andriod.
+• סביבות עבודה: Android Studio ,Eclipse ,Net Beans ,Visual Studio. 
+• מערכות הפעלה: unix ,windows ,android.
+• מסדי נתונים: Microsoft SQL Server, Microsoft Access, BI.
+• נסיון תעסוקתי: נסיון מול לקוח- פיתוח מערכת עבור רופא כפרויקט גמר. 
+היקף שעות של פיתוח המערכת: 600 שעות.
+תאור: פיתוח אתר לצורך ייעול מהלך של ביקור מטופל אצל רופא כך שיתבצע במהירות, כדי לחסוך זמן המתנה רב. האתר הוא דינאמי, מתאים לרופאים בכל תחום שהוא. לכל רופא מאגר נתונים משלו על פיו האתר יעבוד- מתבסס על הרעיון שלכל רופא דרך שונה להגיע לזיהוי מצב רפואי של מטופל.                                                           מכיוון שדרך זו חוזרת על עצמה בכל ביקור, לרופא יש שימוש חוזר בנתונים שהכניס באתחול המאגר שלו.
+מימוש ופיתוח אלגוריתם יעיל בשפת  C#  וטכנולוגית WebAPI. צד הלקוח פותח ב- JavaScript  עם angular.
+ניהול מסדי נתונים ב-  sql.
+עבודה מול לקוח- עמידה בדרישות הלקוח.
+•   לימוד עצמי של ספריות ותכנים בתחומים שונים.
+· פיתוח אפליקציות ל-(android-java) mobile.
+· פיתוח אפליקציות win forms.
+· פיתוח אפליקציות web.
+תוכנות מחשב נוספות:
+· הכרת תוכנות Office ברמה גבוהה: Word,   Point
+
+
+  כישורים
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+·  בעלת מוטיבציה, מוסר עבודה גבוה, אחריות, התמדה,
+   דיוק ועמידה בזמנים.
+·  יצירתיות, חשיבה לוגית, יכולת התמודדות במצבי לחץ.
+
+·  שפות: עברית שפת אם, אנגלית טכנית ברמה 
+       גבוהה.
+·  כושר לימוד עצמי וגישה יסודית,לימוד שפות חדשות   באופן עצמאי וכן ניסיון בחיפוש פתרונות באינטרנט.
+·  יחסי אנוש מעולים ויכולת עבודה בעבודת צוות
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+גיליון ציונים והמלצות יימסרו על פי דרישה.
+`
+     
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

@@ -1,0 +1,72 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+Automation Developer - Selenium \ Java \ C#
+Alexander sher 
+070-544-8568   |    kuzx1306@gmail.com    |     Tel-Aviv
+  linkdin.com/alex-kuin-3605206
+Summary
+● Graduated Full Stack Automation Course at QA experts and skilled in: OOP, Java-Selenium, Java-Appium, writing tests WEB & Mobile on various browsers using, TestNG, Junit, POM, Java-Selenium Angular, Xml, JavaScript. 
+● Experience with 3 Testing Automation Projects with Java - Selenium and 1 Full Stack Project with C#, JavaScript, SQL .  
+● Senior mobile technician with 13 years of technical experience. 
+● I am detail oriented, a problem solver, motivated and seeking an automation position.
+● Fast self-learning, team player with great communication skills and independent in achieving the team goals. 
+● Quickly switch to solving new problems, always completing the task.
+● Goal-focused, problem-solving and providing creative solutions while meeting schedules, independent work and excellent team integration.
+● Motivated to integrate and develop in the field of automation and/or QA development which is relevant to my skills.
+
+Education
+2020-2021 	Graduate of the Full Stack Automation Course, QA Experts College Ramat Gan
+Extensive knowledge of Java-Selenium, Java-Appium.
+
+2015 – 2018           Software Engineering, Singalovski College, Tel Aviv
+Software practical engineer with experience in development from concept stage, implementation in a variety of languages, performing tests to airing.
+Acquaintance and study of programming languages, mathematics, computer graphics.
+Data structure, data communication / networks. QA course as part of the studies - performing manual tests, writing test documents (STP, STD and STR), and documenting bugs.
+
+
+Projects:
+ 2021      Test Automation Project - Java-Selenium, El-Al Website 
+     Test ElAl flight tickets ordering system - E2E (End to End)
+     testing all tickets fields data with Java - Selenium	
+     https://github.com/dollar1306/OrderFlightTickets.git
+
+2021     Pure Java Project - Shekel-Dollar-Euro conversion
+     		Development of a currency converter Shekel-Dollar-Euro
+		With entering all the results into a text file
+		 https://github.com/dollar1306/Convertor.git
+
+ 2021      Test Automation Project - Java-Selenium, Buy-Me Website       
+Test Buy-Me gifts ordering system - E2E(End to End)
+ Testing registration and gift fields data with Reporting system Java - Selenium
+ https://github.com/dollar1306/BuyMe.git
+
+
+2019     Warehouse Management Project -   Graduation Project - C#, JavaScript, SQL
+FullStack Development for Advanced Computerized Warehouse Management: full responsibility for the development process - software for advanced management of processes along the entire supply chain, including, defining needs, characterization, planning the concept of the solution, and designing. 
+Debugging and performance improvement using the Agile methodology.
+Server side and Client side (FrontEnd/ BackEnd) development in C #, JavaScript and SQL database.
+
+Experience
+2018 – 2020       Senior mobile technician, 'Cellular and Computer Center'
+Providing service for a variety of mobile devices in the areas of hardware and software while dealing with customers on an ongoing basis.
+Locating and identifying hardware faults and making repairs down to the component level.
+Gave tutorials to customers who bought a new phone or computer.
+Support for everything related to the software level, such as: updating versions, adding parameters according to needs, transferring information and more.
+
+2012 – 2018        Senior mobile technician, Private Mobile Laboratory, "App", Raanana:
+Establishing an array of repairs, searching for and adding solutions to faults down to the component level. Working with Power Supply, Scoop, CPS, Microscope. Delivered tutorials to new employees on work procedures and new phones.
+Support for everything related to the software level, such as: updating versions, adding parameters according to needs, transferring information and more.
+
+2007 – 2012        Mobile Technician, Pelephone Communications, Airport City:
+Locating and identifying faults and making repairs, using the ZVD. Performing quality tests for the integrity of the devices, submitting a treatment report accordingly.
+ To company procedures. Leading projects for device renewal.
+Helping senior technicians find solutions to complex and repetitive problems. 
+
+Development environments
+IntelliJ IDEA, Eclipse, Visual Studio, Git, Java, C#, C, SQL, JavaScript/CSS/Html, Jenkins, Postman.
+
+Languages
+Hebrew - mother tongue level, English - good level, Russian - mother tongue
+
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

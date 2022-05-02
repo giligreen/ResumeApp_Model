@@ -1,0 +1,48 @@
+﻿חרדים שולמית
+· · ·
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+שולה כץ– הנדסאית תוכנה
+פרטים אישיים
+שם: שולה כץ 
+ת.ז: 317412275
+כתובת: תלאביב
+טלפון: 0524563917  026784741
+דוא"ל: shula7831@gmail.com
+תאריך לידה: 20.06.1997 
+השכלה
+2016-2017 - הנדסת תכנה ב"בנות אלישבע" ירושלים- לימודים לתואר הנדסאי תכנה מטעם "משרד החינוך" (המכללה הטכנולוגית).  ממוצע ציונים 100
+   2012-2015  -  תיכון "בנות אלישבע" ירושלים, 
+   מגמה טכנולוגית: מדעי המחשב , 11 יחידות  בגרות מדעי המחשב בהצטיינות.
+ידע וניסיון
+• קורסים: מערכות הפעלה, מבני נתונים ויעילות אלגוריתמים, תקשורת ורשתות, ארכיטקטורה, ארגון קבצים, אסמבלר, שפת C, אנגלית טכנית, SQL, ניתוח מערכות,C#, JAVA, MVC,WCF,ANDROID,מערכות ספרתיות, אלגברה לינארית, מערכות מבוזרות,BigData&NoSQL.
+• שפות תכנות: Java ,Android ,VB.NET  ,MVC ,SQL ,Html ,Html5 ,Java Script ,jquery ,C ,C#.
+• ידע וניסיון:,WinForms  ,Entity Framework, Java,WebApi, WCF  Andriod.
+• סביבות עבודה: Android Studio ,Eclipse ,Net Beans ,Visual Studio. 
+• מערכות הפעלה: unix ,windows ,android.
+• מסדי נתונים: Microsoft SQL Server, Microsoft Access ,BI.
+· פרויקט גמר: פיתוח קומפיילר מסוג source to source, עבור שפה עילית חדשה המשמשת ללימוד שפת תיכנות עבור תלמידים צעירים וכן הכנסת עולם התיכנות אל מודעתם תוך פיתוח חשיבתם הלוגית, הקומפילר בודק את תקינות דקדוק השפה הרקורסיבי תוך מיפוי שגיאות מפורט ומבצע תרגום קוד התלמיד לשפת JavaScript וכן הרצת הקוד על ממשק המשתמש. הקומפיילר פותח בשפת C#, תוך שימוש בשרת בטכנולוגיית .MVC  צד הלקוח פותח ב  JavaScript  בשילוב Jquery.
+•   לימוד עצמי של ספריות ותכנים בתחומים שונים.
+· פיתוח אפליקציות ל-(android-java) mobile.
+· פיתוח אפליקציות win forms.
+· פיתוח אפליקציות web.
+· פיתוח תכנה לניהול מרכז לספורט ימי הכוללת לו"ז וניהול הזמנות לקבוצות\יחידים ושיבוצן תוך מתן אפשרות לצירוף קבוצות. התכנה פותחה ב-VB תוך התקשרות לבסיס נתונים ב- Access.
+תוכנות מחשב נוספות:
+· הכרת תוכנות Office ברמה גבוהה: Word, Power Point, .Visio
+  כישורים
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+·  בעלת מוטיבציה, מוסר עבודה גבוה, אחריות, התמדה,
+   דיוק ועמידה בזמנים.
+·  יצירתיות, חשיבה לוגית, יכולת התמודדות במצבי לחץ, וקליטה מהירה.
+
+·  שפות: עברית שפת אם, אנגלית טכנית ברמה 
+       גבוהה.
+·  כושר לימוד עצמי וגישה יסודית.
+·  יחסי אנוש מעולים ויכולת עבודה בעבודת צוות.
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+גיליון ציונים והמלצות יימסרו על פי דרישה.
+
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

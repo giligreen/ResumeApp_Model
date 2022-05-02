@@ -1,0 +1,40 @@
+﻿בן-חמו תמר-אילת
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+בס"ד
+בתיה דיקן– הנדסאית תוכנה
+פרטים אישיים
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+עיר: בני ברק
+טלפון: 052-7456345
+ 
+שם: בתיה דיקן
+דוא"ל: batya5145@gmail.com
+מצב משפחתי: רווקה
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+בן-חמו תמר-אילת
+השכלה
+2016-2017 - הנדסת תכנה ב"בנות אלישבע" ירושלים- לימודים לתואר הנדסאי תכנה מטעם "משרד החינוך" (המכללה הטכנולוגית).  ממוצע ציונים 98
+   2012-2015  -  תיכון "בנות אלישבע" ירושלים, 
+   מגמה טכנולוגית: מדעי המחשב , 11 יחידות  בגרות מדעי המחשב בהצלחה.
+ידע וניסיון
+• קורסים: מערכות הפעלה, מבני נתונים ויעילות אלגוריתמים, תקשורת ורשתות, ארכיטקטורה, ארגון קבצים, אסמבלר, שפת C, אנגלית טכנית, SQL, ניתוח מערכות,C#, JAVA, MVC,WCF,ANDROID,BI,מערכות ספרתיות, אלגברה לינארית, מערכות מבוזרות,BigData & NoSQL.
+• שפות תכנות: Java ,Android ,VB.NET  ,MVC ,SQL ,Html ,Html5 ,Java Script ,jquery ,C ,C#.
+• ידע וניסיון:,WinForms ,Mongo-DB  ,Entity Framework, Java ,WebApi, WCF  Andriod.
+• סביבות עבודה: Android Studio ,Eclipse ,Net Beans ,Visual Studio. 
+• מערכות הפעלה: unix ,windows ,android.
+• מסדי נתונים: Microsoft SQL Server, Microsoft Access.
+·  פרויקט גמר: פיתוח ספריה גנרית לבנית עצי משחק, עץ המשחק יכיל את כל מהלכי המשחק האפשריים. פרטי המשחק (לוח, חלקים וכללים) יקלטו ע"י משתמש פשוט, הכללים יבנו עפ"י שפת פרולוג. מלבד פונקציית הניצחון שאותה יכתוב מתכנת. שחקן יוכל להכניס מצב מסוים של לוח המשחק ויקבל את הצעד הכדאי הבא ממצב זה שיובילו לניצחון או במקרה הגרוע ל"תיקו".
+•   לימוד עצמי של ספריות ותכנים בתחומים שונים.
+· פיתוח אפליקציות ל-(android-java) mobile.
+· פיתוח אפליקציות win forms.
+· פיתוח אפליקציות web.
+· פיתוח תכנה לניהול אירועים לאולם שמחות בהתחשב באילוצים . התכנה פותחה ב-VB תוך התקשרות לבסיס נתונים ב- Access.
+ כישורים
+בעלת מוטיבציה, מוסר עבודה גבוה, אחראיות, התמדה, דיוק ועמידה בזמנים, יצירתיות, חשיבה לוגית, יכולת התמודדות במצבי לחץ, וקליטה מהירה, כושר לימוד עצמי וגישה יסודית,  יחסי אנוש מעולים ויכולת עבודה בעבודת צוות.
+גיליון ציונים והמלצות יימסרו על פי דרישה.
+
+שפות: עברית וצרפתית שפת אם, אנגלית טכנית ברמה גבוהה.
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

@@ -1,0 +1,73 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+Full-Stack Developer 
+React \ Nodejs \ JavaScript
+Muli ‌Defersha‌
+‌054-296-2914    |    mulualm1997@‌gmail.com‌‌‌   |‌ ‌  Tel Aviv
+                 Github       |       linkedin
+Summary
+● Looking for a Full‌ ‌Stack‌ ‌software‌ ‌developer position: React, Nodejs, JavaScript. ‌ ‌
+● Experience with 6 Projects developed with React, JavaScript, Nodejs, Express, Html, Css, JavaScript, SQL, MongoDB, JQuery,  Bootstrap. 
+● Full Stack Course - GPA 94 - Excellence Certificate. 
+● Experienced‌ ‌in‌ ‌positions‌ ‌that‌ ‌require‌ ‌teamwork, working‌ ‌under‌ ‌pressure‌ ‌with multiple ‌interfaces. ‌ ‌
+● Works‌ ‌well‌ ‌independently‌ ‌and‌ as a part of a ‌team, excellent‌ ‌interpersonal‌ ‌skills, ‌fast‌ learner.
+● Motivated, ‌ ‌goal-oriented, meets‌ ‌goals‌ ‌of‌ ‌productivity‌ ‌and‌ ‌schedule‌.
+
+
+Projects
+2021        Chat App Project - React, Nodejs, Express, JavaScript, Html, Css, Express, Socket.IO
+                    The website asks the user to register and he can chat with a single 
+                    person or in a group.
+
+2021        Resume Project - React, JavaScript, html, css, Bootstrap
+                                                 A personal site where I tell about myself and show my portfolio and 
+                                                 in which  languages I specialize in, contact me.
+2021       CURD_Hooks Project - React
+                                                 All operations can be performed CRUD.
+                
+2021        Books Project - React, Nodejs, Express
+                                                The site allows me to add books to the list or make an update, delete.
+
+2021        Todo List Project - JavaScript
+                                                The site allows me to keep track of the tasks I set for myself during                    
+                                                the day and mark when I did the task and thus kept track during the
+                                                day.      
+
+2021        Calculator Project - JavaScript
+                                                 A calculator that displays mathematical operations.
+
+Education and Courses
+2020 - 2021    Full Stack Development, Tech Career - Technology Boot-Camp - GPA 94 - Excellence 
+                         Certificate - A professional 10 Months FullStack Course of 800+ hours.
+Databases: SQL Server, MongoDB         
+Server-side: C#, Nodejs & Express
+Client-side: React, Html, Css, JavaScript  
+Framework: Bootstrap, Github, Heroku
+       Final project with AT&T - React, JavaScript, Nodejs, MongoDB, Express 
+  The purpose of the site is to connect between independent lecturers 
+   and users. 
+  Uploading Videos and lecturers.     
+  You can register on the website and buy a ticket for the lecture.
+
+2009- 2015  Full matriculation, Amit High School
+●   Received certificate of excellence upon graduation.
+●   Major subject: Electronics - 8 units. 
+
+Experience
+2018 - 2020    Security guard a strategic facility, Noble Energy.
+● Tours, drills, medical staff responsibilities and firefighting.
+● Training of new employees, overlap, and training procedures
+●  The position required: Professionalism, great responsibility, teamwork, 24/7 work.
+
+
+Military Service
+2015 - 2018    Platoon sergeant and fighter, Kefir Brigade 
+	           Completed with the rank of First Sergeant.
+● Rifleman 08, Fighter, platoon commander, platoon sergeant, RPG liaison.
+● Responsibility for the platoon agenda and daily routine, training the fighters in the shooting range, and company communications equipment.
+● The job required: leadership, responsibility, working under pressure, adhering to strict schedules, seriousness and teamwork.
+
+Languages
+Hebrew: mother tongue                                                                           
+English: high level   
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

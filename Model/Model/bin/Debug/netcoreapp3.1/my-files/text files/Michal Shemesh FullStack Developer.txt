@@ -1,0 +1,46 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+shran temer | Full-Stack Developer
+0545852460
+mi456@gmail.com
+https://ww.lindin.com/ /
+
+
+Experience
+
+Smarti Company | Full Stack Developer
+A software company that develops integrated products and solutions in the areas of employee management and human resources. (HR
+July 2019 – Present
+- Server side development and use of Python language combined with Django.
+- Extracting information from MySQL databases by complex SQL queries.
+- Development of a feature for the day-to-day operation of the company's officials, which has 
+  reduced manpower with OOP in Python. 
+- Work with APIs, background with AWS services.
+- Client side development in Angular 7 and experience working with: html5, CSS, Bootstrap, TS.
+- Using Git for version control.
+
+Projects
+
+Final Project 2019 | 'Smart File Manager' Software development in the field of AI - artificial intelligence automatically classifies files into folders by building an algorithm for analyzing text under a subject tree.
+The algorithm was developed in C # in connection to Sql's database passed with a score of 100%.
+
+Education
+
+2017 - 2019 | Software engineering specialization in " Bnot Elisheva'" Jerusalem, Software Practical                 Certificate from the "Ministry of Education" (Technological College) Grade average: 96%
+  - BootCamp: 3 courses in algorithms, data structures and graphs by Western Digital passed successfully
+2014 - 2017 | High School "Bnot Elisheva", Jerusalem, The computer science program includes matriculation exams amounting to 11 units study passed successfully.
+
+Skills
+
+Programming Languages: C#, Python, TypeScript, js, HTML, Sql, and Assembly
+Frameworks: JQuery, Angular, Web API
+Operating Systems: windows, Linux (On a theoretical level).
+Additional Courses: Parallel and distributed calculation, Computer architecture, Computational     
+   Learning, Data structures and algorithm efficiency, linear algebra.
+Computer Applications: Visual Studio, SQL Server Management Studio, PyCharm, PHPMyAdmin, Jira, WebStorm, Postman, Office.
+Languages
+Hebrew: Native language                English: Technical and spoken at a good level  
+  
+**A transcript and recommendations sheet will be provided upon request 
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+עמוד 2

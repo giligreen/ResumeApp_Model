@@ -1,0 +1,31 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+אלישבע שמר- הנדסאית מחשבים 
+ ירושלים 050-4459446  45am@gmail.com 
+ הנדסאית מחשביםאלישבע שמרניסיון 	 	2019-2018 Execution TL , אינטל 
+תעסוקתי 	       הובלה של צוות ולידציה  מטעם נס א.ט. באינטל. הצוות התעסק בהרצת רגרסיות, ופיתוח 
+                      כלים בשפת python להרצת בדיקות אוטומטיות. עבודה במודל SCRUM- Agile.                
+2018                      -2015 פיתוח תוכנה, אינטל 
+	הובלה לתקופה של צוות בפיתוח סקריפטים בשפת Python. 
+ .Linux בסביבת עבודה Python בשפת Server and Client side      פיתוח     
+design and development        של הכלי Magia – כלי להרצת רגרסיות אוטומטיות משרת 
+       מרכזי באמצעות מודל service-client  מבוסס Rpyc. 
+      הכלי נועד לשמש מאות עובדי אינטל בארץ ובעולם, ובנוי כ open source כך שכל
+       קבוצה יכולה לממש קוד ספציפי משלה ולהתאים את הכלי לצרכיה.
+ .Jenkins עבודה עם ,GIT repository עבודה עם ,Scrum      עבודה במודל java script, jQuery, Html  תוך שימוש ב ,Flask מבוסס web       הכרות עם מימוש   
+ .sqlalchemy – Sql DB       נסיון ב   
+                      עבודה עם מערכת ההפעלה Linux, תקשורת, טכנולוגיית RDMA
+
+ 	 יצירתיות, קליטה מהירה, זריזות, חשיבה לוגית, ,יכולת אנליזה טובה של בעיות, יכולת הסבר, יחסי אנוש מעולים, מעוף, יזמיות, מוסר עבודה גבוה, יכולת עבודה בתנאי לחץ, אחריות, יכולת כניסה מהירה לקוד כתוב, כושר עבודה עצמאי ובצוות ,עמידה בזמנים ,מוסר עבודה גבוה, יכולת למידה עצמית, אוהבת אתגרים.  
+נבחרת אינטל – נס לעובדת מצטיינת רבעון, 2017. מיומנויות וכישורים  המכללה הטכנולוגית, תואר הנדסאי תוכנה משרד החינוך ממוצע ציונים מעל %95 
+תיכון בנות אלישבע, מגמת מדעי המחשב 
+11 יחידות בגרות במדעי המחשב. ממוצע ציונים מעל %95 השכלה  Android Studio ,Eclipse ,Net Beans ,Visual Studio, SlickEdit, Pycharm      סביבות עבודה:ידע מקצועי Java EE ,Python, Bash, Assemblly ,C# ,C++, C, VB, Cobol, Java       שפות תכנות:        Windows, Android, Solaris ,Linux    מערכות הפעלה:  Access, SQL Server בסיסי נתונים: MVC, Html5, CSS, JavaScript, Asp.Net, JQuery פיתוח אתרים: WPF ,WCF ,XML, מערכות הפעלה, מבני נתונים ויעילות אלגוריתמים, ניתוח מערכות, תקשורת, מערכות ספרתיות, אלגברה ליניארית, אנגלית טכנית, OFFICE ,Flash. שונות: שפת אם  	עברית: שפות כשפת אם אנגלית: 	המלצות 	אסנת כהן | ר"צ נס-אינטל |0504113214 | OSNATRACHEL@GMAIL.COM   
+נעמה בן חיים | מובילה מקצועית | 0527119484 | NAAMATYB@GMAIL.COM 
+
+
+
+
+
+	 	
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

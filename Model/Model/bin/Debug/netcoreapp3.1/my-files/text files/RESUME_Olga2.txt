@@ -1,0 +1,41 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+RESUME
+oshra Krass
+
+
+Objective: A challenging position where I can effectively utilize and expand my professional achievements as a build engineer, install engineer, integrator, QA engineer or gain the new and expand my current experience in software engineering; learn and master new systems, programming techniques and development environments.
+
+Professional skills 
+Summary: 	Manual and automated testing (QA), integration and build/deployment/setup engineering/software engineering.
+Setup technologies:		InstallShield 5.5 – X, MSI, DemoShield, InstallAnywhere.
+Programming languages: 	C++, Basic, InstallShield Script, WinRunner Script.
+Development environments:	MS Visual Studio 6/2003/2005, .NET, MS VBA, MS Access, WinRunner.
+Operating systems: 	MS-DOS, Windows 95/98, NT, 2000, XP, CE - Hebrew and Foreign Language Versions. Open VMS, Solaris, Linux, Mac OS.
+
+Professional experience (more than 8 years in the field)
+July, 2000 – now: Ericom Software Ltd., Jerusalem -  Terminal emulation software.
+Worked as install (setup) engineer. Development and support of setup programs for different platforms and technologies: Windows (InstallShield, DemoShield, MS Installer), Windows CE (InstallShield and CABs), Linux (RPM) and Mac OS (InstallAnywhere). Web Installations (InstallShield). Also worked as build engineer, supporting company products releases in VSSoft FinalBuilder. Constantly automated day-by-day procedures, writing procedures in VB using COM automation interfaces.
+
+February, 1999 – July, 2000: - Ericom Software Ltd., Jerusalem - Terminal emulation software.
+Worked as QA engineer in testing of terminal emulation applications including emulation functionality and GUI, QA of InstallShield installations. Testing on Windows and Windows CE platforms.
+
+August, 1998 – February, 1999: - "Az-Ben Electronics Ltd.", Rosh haAyin. - APoS2000 - Point of sale.
+Worked as QA engineer. Writing testing scripts. Test planning. Testing, Store Level System. Platform: Windows NT.
+
+Education
+1989 / 1991 	- Gubkin's University in Moscow. Programming and computer science.
+		
+Additional education
+2000		- Course "WinRunner 6.0", by Mercury Interactive.
+1997 / 1998	- Course "Programming", by Sivan (MS Visual Basic, MS Access, C++). 
+
+Languages
+Hebrew, English, Russian.
+
+Additional data
+High ability and desire to study new computer related topics. Quick learner. Excellent communication and collaboration skills. Work alone and in a team. 
+
+References
+Available upon request.
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

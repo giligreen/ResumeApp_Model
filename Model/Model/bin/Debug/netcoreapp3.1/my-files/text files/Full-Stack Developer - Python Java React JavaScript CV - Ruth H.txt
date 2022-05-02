@@ -1,0 +1,73 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+Full-Stack Developer
+Python \ Java \ React \ JavaScript
+ SHIRA Hav
+058-322-7790      |   S6320@gmail.com   |  Jerusalem
+ Linin.com/in/Shavlin
+Summary
+● Full-Stack Developer - Python, Java, React, JavaScript
+● Experience as Python Teacher and Full-Stack Developer - Angular, C# 
+● Computer science B.Sc. - GPA 82
+● During my studies I participated in a bootcamp in Python and received an excellence in writing clean code, and I started teaching Python Programming there.
+● 4 Months internship in Full-Stack development, customer management system, in C#, Asp.net Core, Angular, SQL Server.
+● I have a lot of motivation, and a high self-learning ability, 
+
+Experience
+2021 - Present	    Python Teacher, Adva Bootcamp, Scale-Up velocity
+● Teaching advanced Python to seminary students, including SQL, Flask, Pandas, NumPy, Matplotlib, Design Patterns.
+● The program focuses on core mathematical skills and advanced Python, as well as ongoing mentoring and preparation for the high-tech recruiting process, including the accompaniment of projects in the industry: Google, Mobileye, Rafael, Ofek etc.
+
+2021 - Present	     Full-Stack Developer - Angular , C# (Part Time), brotech 
+           Full-Stack Project company
+● Development of a Full-Stack customer management system.
+● Characterization the databases, and software requirements according to customer settings.
+● Setting up databases in SQL Server, writing queries and complex procedures.
+● Manage code versions and software versions on server using GitHub.
+● Server: C#, Asp.net Core
+● Client: Angular
+● Databases in SQL Server
+Education
+
+2021 - Present       Advanced Full-Stack Course By Yaniv Arad
+● Server: Node.JS + Express + MongoDB
+● Client: React
+
+2018 - 2021	   B.Sc. in Computer Science, The Open University - GPA 82
+    Courses: Java, C, Python, SQL, Linux, AI, Communication networks etc.
+
+2020	        Excellenteam Python Bootcamp, Scale-Up velocity - graduated with Excellence Best Clean Code Writer.
+● An intensive Bootcamp includes industry-level skills and hands-on practice.
+● High-level Server-side development, Python - Flask, Pandas, NumPy and SQL.
+
+2017 - 2018	    Pre Academic Preparatory Program, Computer Science | Lev Academic
+			    Center (JCT Jerusalem College of Technology) - GPA 90
+
+
+Projects
+2021	     Chat Project in Java - client-server program that implements a call room, including a graphical
+	     interface, implemented in the TCP protocol.
+
+2021	     Data Analysis Project - Data Analysis on books and authors, The Dataset was taken from
+	     Open Library Books API. implemented in Python with Pandas.
+
+2021	     Java Project - game 4 in a row, Includes a graphical interface.
+
+2020	     Pokemon Project in Python - Full stack development
+● API (pokeAPI) development (Create, Delete, Update, etc.) on Postman
+● DB based on MySQL.
+
+2019	     Assembler emulator in C – Transform user input from C syntax to binary (Assembler)
+	     language, Linux based environment.
+
+
+Programing Skills
+● Python, Java, C, C++, C#.
+● Angular, React, Html, css, JavaScript.
+● MySQL, SQL Server, Git, Linux.
+
+
+Languages
+● Hebrew – Native
+● English – Very good
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

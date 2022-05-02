@@ -1,0 +1,46 @@
+﻿יהודית יהודה- הנדסאית תוכנה
+· · ·
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+מרים קליין – הנדסאית תוכנה
+פרטים אישיים
+שם: מרים קליין
+ת.ז: 207850834
+כתובת: רמת צבי 85/10
+טלפון: 0563263598
+תאריך לידה: 03/02/1995
+השכלה
+2016-2017 - הנדסת תכנה ב"בנות אלישבע" ירושלים- לימודים לתואר הנדסאי תכנה מטעם "משרד החינוך" (המכללה הטכנולוגית).  ממוצע ציונים 94
+   2012-20145  -  תיכון "בנות אלישבע" ירושלים, 
+   מגמה טכנולוגית: מדעי המחשב , 11 יחידות  בגרות מדעי המחשב בהצטיינות.
+ידע וניסיון
+• קורסים: מערכות הפעלה, מבני נתונים ויעילות אלגוריתמים, תקשורת ורשתות, ארכיטקטורה, ארגון קבצים, מערכות ספרתיות, BigData&NoSQL.
+• שפות תכנות: Java ,Android ,VB.NET  ,MVC ,SQL ,Html ,Html5 ,Java Script ,jquery ,C ,C#.
+• ידע וניסיון:,WinForms, Mongo-DB  ,Entity Framework  ,WCF  Andriod.
+• סביבות עבודה: Android Studio ,Eclipse ,Net Beans ,Visual Studio. 
+• מערכות הפעלה: unix ,windows ,android.
+• מסדי נתונים: Microsoft SQL Server, Microsoft Access ,BI.
+· פרויקט גמר: פיתוח תוכנה דינאמית ליצירת והפעלת חידון טריוויה וקליטת התשובות ע"י שלטים.
+· תוכנה ללקוח: פיתוח תכנה עבור בית דפוס המנהלת את פרטי ההזמנות ומפיקה טפסי עבודה ודוחות.
+התוכנה פותחה בC# תוך התקשרות לבסיס נתונים באקסל.
+•   לימוד עצמי של ספריות ותכנים בתחומים שונים.
+· פיתוח אפליקציות ל-(android-java) mobile.
+· פיתוח אפליקציות win forms.
+· פיתוח אפליקציות web.
+· פיתוח תכנה לניהול מערכת שעות לעובדי מוזיאון המדע, ותכנון מסלולים במוזיאון עבור קבוצות מבקרים תוך הקפדה על מס' מבקרים מוגבל בזמן נתון בכל חדר. התכנה פותחה ב-VB תוך התקשרות לבסיס נתונים ב- Access.
+תוכנות מחשב נוספות:
+· הכרת תוכנות Office ברמה גבוהה: Word, Power Point.
+  כישורים
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+·    שפות: עברית שפת אם, אנגלית טכנית, רוסית.
+·    יחסי אנוש מעולים ויכולת עבודה בעבודת צוות.
+· בעלת מוטיבציה, מוסר עבודה גבוה, אחריות, התמדה, דיוק ועמידה בזמנים. 
+· כושר לימוד עצמי וגישה יסודית.
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+גיליון ציונים והמלצות יימסרו על פי דרישה.
+
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

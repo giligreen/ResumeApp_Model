@@ -1,0 +1,72 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+Senior IT Manager 
+(Hands on)
+Gilad Ifrah
+Tel Aviv    |    gilad.ifrah@sapbasis.co.il    |   054-642-9487
+
+Summary
+● 20 years experience with diverse information systems (Hands-On).
+● 10 years as an SAP Basis expert, setting up, maintaining, and upgrading ERP systems for institutional customers and large companies.
+● Experienced in working as a DEVOPS person, supporting developers, providing response to development needs, experienced in leading projects and working with management levels, matrix management of tasks and projects.
+● Beyond professional experience, I am very dedicated and thorough at work, always thinking a few steps ahead, with a high and fast self-learning ability and refuse to recognize the concept of "impossible".
+
+Experience
+2018 – Today    IT Manager and SAP Basis, Innova IT 
+● Management of ECC6, S4H environments and SCP HEC cloud environments. Maintenance, testing and troubleshooting
+● Experience in Fiori, ODATA services, transfer from development to production
+● Ongoing work with SAP support, service calls, OSS troubleshooting
+● Planning and performing system upgrades and updates, using Maintenance Planner
+● Supporting implementers and developers, maintaining permissions, supporting end customers
+
+2016 – 2018     Senior SAP Basis expert, Malam Systems
+● Working with institutional clients, Ministry of Health, Tadiran, Leumit health services, the Israeli JDC.
+● Performing installations, upgrades, updates, routine maintenance, and troubleshooting.
+● Work with implementers and developers, accompanied and assisted in Go-Live
+● Management and maintenance of physical servers, including VMware, Hyper-V in Windows environments.
+● Experience in ECC6, S4H, SOLMAN72, Portal, DMS, BW / BO, SAPGUI Automation.
+
+2012 – 2016     IT Expert and SAP Basis, McCANN TLV, IPG
+● ECC6 and SOLMAN maintenance, routine checks, system updates and upgrades
+● Support for end users, maintenance of permissions and roles (Roles)
+● Responsible for SOX Compliance with internal/external parties 
+● Management and maintenance of SEP, SCCM, DLP, NAC systems
+
+2008 – 2011    DevOps & management of SaaS system, YCD Multimedia
+● Management and maintenance of an IBM WebSphere-based SaaS platform
+● Management and maintenance of system servers in the server farm
+● Tier 3 support, planning and executing QA in all system components
+● Performed DevOps duties, set up DEV environments and staging before Go-Live.
+
+2006 – 2008    Professional Services and DevOps engineer, Prefix IT
+● Product QA and support, Pre/Post Sale, product design
+● Performed DevOps duties, set up and managed QA and staging systems
+
+2003 – 2005    DVR project manager, Electronics Line
+● Worked with the manufacturer in adapting the product to the Israeli market
+● Established assembly line and training system for technicians
+● Prepared technical and marketing materials, Presale and execution of POC
+
+1999 – 2002    HP OpenView system administrator, Amdocs
+● Managed an HPOV system for automatic distribution of software and updates
+● Built and tested distribution packages, scripts for automatic installation
+● Worked with product developers in adaptations to Amdocs' needs
+Areas of expertise
+● MySQL, MSSQL, HANA, SAP ASE, MaxDB, BASH, System, Linux, SOX
+● Windows servers, AD, DNS, NAC, DLP, SEP, SCCM
+● Tomcat, Apache, IIS, CMS, VMWare, vCenter, Hyper-V
+● Extensive experience in customer support at all levels
+● DevOps skills, working with developers and system implementers
+● Experience in servers and end nodes automation, scripts (BASH, Batch)
+● SOLMAN72, ECC6, BO/BW, DMS, Fiori, Portal, S/4H, SCP, HEC, OSS, ODATA, Web Services.
+
+Military Service
+1987– 1990   IDF, Israeli Defense Forces
+● Computerized warehouse management
+● Full service, discharged as Staff Sergeant.
+Education
+1999– 2000  MCSE Certificate, John Bryce
+2020– 2021  Linux Admin, Real Time College
+
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

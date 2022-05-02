@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
 
 namespace Model
@@ -8,6 +7,7 @@ namespace Model
     {
         static void Main(string[] args)
         {
+
             string DataBaseForClassification_ExcelFile = @"my-files\‏‏DataBaseForClassification.xlsx";
             string DataBaseForClassification_CsvFile = @"my-files\FinialDataBaseForClassification.csv";
 

@@ -1,0 +1,105 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+ Full-Stack Developer    
+ React / NodeJS / JavaScript
+Yaron Albo   |   yaron.am91@gmail.com  |  074-789-8180  |  Tel-ziyon
+
+lindin.cn/yarno-albo-a00125218     |     poro-9ee.web.ape
+giub.com/yaron-Start
+Summary
+● Full-Stack Web Developer with experience in writing single-page-applications using the latest WEB technologies (React, NodeJS, JavaScript etc.).
+● Developed 8 Full-Stack projects using tools and languages such as modern JavaScript (ES6), Object Oriented Programing (OOP), Server-side programming, APIs, REST with NodeJS, MVC Frameworks, HTML5, CSS3, SCSS, ExpressJS, MongoDB & Mongoose, jQuery, GIT, Firebase, Socket.io, Bcrypt, Multer, Angular Material, Bootstrap and more.
+● A clear understanding of front-end, back-end, Database management, and High-quality UI/UX construction.
+● I enjoy solving problems and facing new challenges. autodidact, hard worker, polite with great interpersonal skills.
+
+Projects
+2021     Trailing App Full-Stack Project - React, NodeJS, ExpressJS, JavaScript, MongoDB
+              Trello clone, an advanced project management app
+Vue, Vuex, NodeJS, ExpressJS, MongoDB, Bcrypt, Socket.io, Github, Heroku, JavaScript, HTML5, SCSS.
+
+2021	E-Commerce-Store – React, Github, HTML5, CSS3, JavaScript
+Search the store items and go through the full process of an online purchase.
+
+2021	Movies Database Search - React, Github, HTML5, CSS3, JavaScript
+Integrated with a ‘movie-search-API’, find your favorite movies.
+
+2021	Unsplash API Search Engine - React, Github, HTML5, CSS3, JavaScript
+Integrated with a ‘Unsplash-API’, search for HD royalty-free photos.
+
+2021    Coffee Roasters App – Angular, Github, Firebase, HTML5, SCSS, JavaScript.
+Choose and order your coffee. A clean and elegant UI  
+               example project.
+
+2021     Galleria – Angular, Github, Firebase, HTML5, SCSS, JavaScript.
+Art gallery app. Get all your desired information for a selected variety of famous paintings.
+
+
+
+2021     Planets Facts Site – Angular, Github, Firebase, HTML5, SCSS, JavaScript.
+Get information about the planets in our solar system.
+
+2021     AppSus – Vue, Vuex, Github, Heroku, JavaScript, HTML5, SCSS.
+Send Emails, create Notes and search for books. Inspired by Google Apps.
+
+2021      Meme Generator – HTML5, CSS3, JavaScript.
+	Create your favorite Memes!
+
+2021	Mine Sweeper – HTML5, CSS3, JavaScript.
+	Inspired by the game we all know and love!
+
+2021	Live Page Design –  HTML5, CSS3, JavaScript.
+	A beautiful page design, to strengthen design skills.
+
+
+Education
+2021 – Full-Stack web development – Coding Academy (640 Hours).
+Vue, Vuex, NodeJS, ExpressJS, MongoDB, Bcrypt, Socket.io, Github, Heroku, JavaScript, HTML5, SCSS. MVC Frameworks, Single Page Applications and PWA.
+Server-side programming, APIs and REST Server-side programming, APIs and REST.
+Completed numerous projects both in an independent and group setting, creating various software, products, and applications.
+
+2021 – Cyber Protection + Linux Certification – Kernelios (450 Hours).
+Completed immersive course, conducting penetration tests and attacks, developing cyber defense solutions, conducting malware analysis, and cracking passwords utilizing various tools.
+
+2021 – Applicable Penetration Testing (PT) – Mentoring one on one.
+
+2019 – Advanced stock trading school – Raz Gamliel Academy of Trading.
+
+Professional Experience
+2014 – 2021   Independent Stock Trader.
+● trading in both commodities and the stock exchange market, buying and selling stocks.
+● Establishing the trading strategy while managing positions using both technical and fundamental analysis.
+● Generating forecasts for both domestic and international markets and leveraging swaps to mitigate risk exposure.
+● Developing and maintaining fully-linked trading models to guide execution.
+● Gathering, analyzing and synthesizing extensive volumes of data (market data, currency data, broader economic factors and political events) to identify trends and refine trading strategies.
+● Diligently studying financial and investment topics, including options, derivatives, risk analysis, and financial modelling to enhance knowledge base.
+● Consistently augmenting revenue and maintaining a profitable record.
+
+2016 - 2019   Founder / Operations Manager – A Buddies Bar.
+● Built the business from the ground-up, presiding over all day-to-day administrative, financial and operational facets.
+● Headed all Human Resources Management functions of the business, including talent acquisition, training, staff performance management, and employee wellness.
+● Recruited, mentored and led a cross-functional team, coaching and mentoring the team to achieve	continuous staff development.
+● Directed business development, leveraging data to identify commercial opportunities and coordinate tailored marketing and sales strategies, steadily boosting revenue.
+● Leveraged a mix of digital marketing channels to enhance awareness in the most cost-effective manner.
+● Navigated multifaceted negotiations with new vendors and suppliers, signing advantageous contracts.
+● Maintained open lines of communication with the client base, gathering and assessing feedback to identify service gaps and develop corrective measures to accelerate improvement.
+
+Tech skills
+● MVC Frameworks, Single Page Applications and PWA using Vue.js and Angular.
+● Server-side programming, APIs and REST with Node.js.
+● Modern JavaScript (ES6) including Object Oriented Programming.
+● Typescript.
+● HTML5, CSS3 and SCSS.
+● Express.js, AJAX, Mongoose, Bootstrap, Socket.io, Angular material, Rxjs, Bcrypt.
+
+
+
+Military Service
+2009 – 2013:     
+● Staff Officer, "Head of Combat Field", Land Forces Command, Armored Corps, 
+● Lieutenant.
+
+
+Languages
+● Hebrew – Native.
+● English – fluent.
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

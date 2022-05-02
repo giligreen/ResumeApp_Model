@@ -1,0 +1,37 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+בס"ד
+קורות חיים – רינה  שחר
+
+נסיון עבודה:
+מ- 03/2010    
+בודקת איכות תוכנה (QA) עבור חברת :ClickSoftware Technologies Ltd. ביצוע בדיקות תוכנה עבור לקוחות:Sempra Energy, Pacific Gas & Electric, National Grid, Sberbank etc.  
+הגדרת התפקיד:
+· קריאת מסמכיDesign  ותרגומם לתרחישי בדיקות
+· כתיבת מסמכי בדיקות מפורטים
+· עבודה עם מערכת לניהול בדיקות ותקלות LOTUS NOTES IBM
+· תיעודי בדיקות - תקשורת ישירה עם צוות הפיתוח
+· בצוע בדיקות ידניות למערכת CRM של החברה
+כולל בדיקות DB מקיפות: פונקציונאליות, קונפיגורציה, וולידציות, רגרסיה,  GUI, End to End,  
+בדיקת  Mobile's applications
+· התקנה והעלאת סביבות עבודה תחת VPC
+· בסיסי נתונים- Oracle 9,10,11, SQL Server 2005, 2008
+· כתיבת XML.
+2003-2009 רכזת חברתית בבה"ס (מוסקבה).
+1997-2002 מורה לאנגלית ומסורת בבה"ס (מוסקבה).
+
+השכלה:
+2012  מכללתJohn Bryce  –  קורס הסמכה לבדיקות תוכנה שע"י ארגון ISTQB + תעודה מטעם  ISTQB "Foundation Certificate in Software Testing" 
+2011  מכללתJohn Bryce  – קורס  SQL SERVER 2005 
+2010  מכללת John Bryce - קורס הסבה לבדיקות תוכנה +  תעודה מטעם John Bryce
+1996-1997 קורס אנגלית ב British Council"" + תעודה "First Certificate in English"
+1993-1995 קורס ניהול ושיווק באוניברסיטה (רוסיה).
+
+שפות: 
+רוסית- שפת אם
+אנגלית- ברמת שפת אם, שפת עבודה
+עברית – ברמת שפת אם
+
+כישורים
+מוטיבציה גבוהה, נכונות לעבודה מאומצת, אחראיות, מוסר עבודה גבוה, מאורגנת ומסודרת, יחסי אנוש מצוינים.
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/

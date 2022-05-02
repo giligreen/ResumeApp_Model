@@ -1,0 +1,76 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2021 Aspose Pty Ltd.
+Full-Stack Developer Java, Node.js, C, C++, Python
+ILAI FEDER
+052-441-4944   |   Ilai. feder@gmail.com   |  Tel-Aviv
+Summary
+● Full-Stack Developer - Java \ Node.js \ C \ C++\ Python - would love to Develop in NodeJS .   
+● 2 years Experience with Full-Stack Development with VBA, PHP, SQL, Python, HTML
+● 10+ Full-Stack Projects with C, C++, JAVA, Python, SQL, Scheme, Prolog 
+
+  
+Experience
+2018 – Present     Full-Stack Developer, Israeli Ministry of Defense
+● Designed, developed Using VBA and SQL (very strict data security rules) software to automate manual work, reducing resources and increasing efficiency by 300% 
+● Developed an online system that automates digital lectures feedback with Python, DB, VBA  
+● Developed and operated the Ministry of Defense training website – MS SharePoint, PHP, HTML.
+● Providing Technical Support to the computers at the Ministry of Defense training center Classified systems
+● Security clearance
+
+
+2017 – Present Full-Stack Developer, System Administrator & Co-Manager, Aqua Website
+● Developed search engine, a variety of calculating tools, custom modifications to forums system and web pages – vBulletin, PHP, phpBB, Nosis, MySQL, cPanel
+● Operating website’s multiple systems – vBulletin, Nosis, MySQL, cPanel
+
+
+2006 – 2013 Website Content Manager, Aqua Foundation
+
+● Website’s content manager – proofreading content writers team articles, in charge for articles scheduling publication, edition and updating existing articles
+● Translated professional aquatic articles from English to Hebrew
+● Leader of content-writes team of 5
+
+
+Education
+            B.Sc. computer science Student, Open University of Israel
+Algorithms, Data Structures, Object-oriented Programming, Defensive programing,   Networks, Operation systems, File systems, Database, Java, C, C++, Python, Assembly, Scheme, Prolog
+
+Projects
+Messaging server\client – C++, Python, SQL
+Networks, encryption, TCP, AES-CBC, RSA, DB
+File system – C
+simple file system using data blocks
+Compiler – C
+compiling from CPL to Quad (made up languages)
+Airport simulator – Java
+Multiprocessing, OOP 
+Blackjack game project – Java
+UI, OOP
+To Do List project – Java
+Serialization, OOP
+Robots world project – Java
+OOP
+
+Courses
+	Udemy - Python for Beginners in Data Science
+
+Skills
+Programing languages: 
+JavaScript, Java, C, C++, Python, Assembly, Scheme, Prolog, HTML, YAML
+Database:
+MySQL, Microsoft Access, Microsoft Excel
+Platforms & Operating systems:
+Windows, Linux, Ubuntu, Mint, Android, MS-DOS, SmallTalk
+Tools & Programs:
+Microsoft visual studio, Visual studio code, Android Studio, Eclipse, BlueJ, Notepad++, Arduino studio, GitHub, Git, Home Assistant, MS SharePoint
+
+Military service
+2002 – 2005 Givati brigade - Infantry soldier
+
+Languages
+Hebrew – Mother tongue
+English – Fluent
+
+About me
+I’m highly motivated, autodidact, team player and a hard worker. Able to effectively self-mange during independent projects, well as collaborate as part of a productive team. I love challenges and problem solving.
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
