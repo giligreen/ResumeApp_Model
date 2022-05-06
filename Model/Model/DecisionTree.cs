@@ -442,8 +442,6 @@ namespace Model
         {
             if (tree!=null)
             {
-
-            
             staticRow++;
             ws.Cell(staticRow, 1).SetValue<int>(tree.Id);
             ws.Cell(staticRow, 2).SetValue<string>(tree.Name);
@@ -453,9 +451,9 @@ namespace Model
             ws.Cell(staticRow, 6).SetValue<int>(parentId);
             if (!tree.IsLeaf)
             {
-                RecToSaveTreeIntoFile(tree.ChildNodes[0], ws, tree.Id);
+                RecToSaveTreeIntoFile(tree.ChildNodes[1], ws, tree.Id);
                 if(tree.ChildNodes.Count>1)
-                    RecToSaveTreeIntoFile(tree.ChildNodes[1], ws, tree.Id);
+                    RecToSaveTreeIntoFile(tree.ChildNodes[2], ws, tree.Id);
             }
             }
         }

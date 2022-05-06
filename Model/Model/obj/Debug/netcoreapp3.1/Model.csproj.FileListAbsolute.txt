@@ -32,3 +32,37 @@ M:\פרוייקט\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\
 M:\פרוייקט\GIT פרוייקט עם\ResumeApp_Model\Model\Model\obj\Debug\netcoreapp3.1\Model.dll
 M:\פרוייקט\GIT פרוייקט עם\ResumeApp_Model\Model\Model\obj\Debug\netcoreapp3.1\Model.pdb
 M:\פרוייקט\GIT פרוייקט עם\ResumeApp_Model\Model\Model\obj\Debug\netcoreapp3.1\Model.genruntimeconfig.cache
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\Model.exe
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.json
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\Model.runtimeconfig.dev.json
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\Model.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\Model.pdb
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\Aspose.Words.Pdf2Word.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\Aspose.Words.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\ClosedXML.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\Spire.Common.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\Spire.License.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\Spire.Pdf.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\Spire.XLS.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\obj\Debug\netcoreapp3.1\Model.csproj.CopyComplete
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\obj\Debug\netcoreapp3.1\Model.dll
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\obj\Debug\netcoreapp3.1\Model.pdb
+G:\פרוייקט גמר בעזה\GIT פרוייקט עם\ResumeApp_Model\Model\Model\obj\Debug\netcoreapp3.1\Model.genruntimeconfig.cache
