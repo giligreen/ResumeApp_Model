@@ -28,7 +28,7 @@ namespace Model
                         {
                             if (string.IsNullOrEmpty(item) || string.IsNullOrWhiteSpace(item))
                             {
-                                throw new Exception("Value can't be empty");
+                                //throw new Exception("Value can't be empty");  
                             }
 
                             if (rows == 0)

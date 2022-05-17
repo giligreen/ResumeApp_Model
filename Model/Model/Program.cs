@@ -7,17 +7,19 @@ namespace Model
     {
         static void Main(string[] args)
         {
-
-            string DataBaseForClassification_ExcelFile = @"my-files\‏‏DataBaseForClassification.xlsx";
+            //string DataBaseForClassification_ExcelFile = @"my-files\‏‏DataBaseForClassification.xlsx";
+            //   DatabaseConstruction.FillInDataBase(DataBaseForClassification_ExcelFile);
+           
             string DataBaseForClassification_CsvFile = @"my-files\FinialDataBaseForClassification.csv";
-
-         //   DatabaseConstruction.FillInDataBase(DataBaseForClassification_ExcelFile);
-            //DataTable db = CsvFileHandler.ImportFromCsvFile(DataBaseForClassification_CsvFile);
-            //TreeNode tree = DecisionTree.Learn(db, " ");
+            //string DataBaseForClassification_CsvFile = @"my-files\smallDB.csv";
+           
+            DataTable db = CsvFileHandler.ImportFromCsvFile(DataBaseForClassification_CsvFile);
+            TreeNode tree = DecisionTree.Learn(db, " ");
+            DecisionTree.Print(tree, "");
             //DecisionTree.Print(tree, tree.Name);
-            //DecisionTree.SaveTreeIntoFile(tree);
+            DecisionTree.SaveTreeIntoFile(tree);
             DecisionTree t = new DecisionTree();
-            TreeNode tree2=t.LoadTreeFromFile(@"my-files/DecisionTree.xlsx");
+            TreeNode tree2=t.LoadTreeFromFile(@"my-files/trying.xlsx");
         }
     }
 }

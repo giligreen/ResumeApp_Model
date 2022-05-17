@@ -134,7 +134,7 @@ namespace Model
             }
             
                 var root = GetRootNode(data, edgeName);
-
+            if (root != null) { 
                 foreach (var item in root.NodeAttribute.DifferentAttributeNames)
                 {
                     // אם זה עלה, העלה יתווסף בפונקציה זו
@@ -148,7 +148,7 @@ namespace Model
                         root.ChildNodes.Add(Learn(reducedTable, item));
                     }
                 }
-          
+            }
             return root;
         }
 
@@ -158,7 +158,7 @@ namespace Model
             var isLeaf = true;
             var allEndValues = new List<string>();
 
-            // get all leaf values for the attribute in question
+            //  קבל את כל ערכי העלים עבור התכונה המדוברת
             for (var i = 0; i < data.Rows.Count; i++)
             {
                 if (data.Rows[i][root.TableIndex].ToString().Equals(attributeToCheck))
@@ -166,14 +166,13 @@ namespace Model
                     allEndValues.Add(data.Rows[i][data.Columns.Count - 1].ToString());
                 }
             }
-
-            // check whether all elements of the list have the same value
+            // בדוק אם לכל הרכיבים ברשימה יש אותו ערך
             if (allEndValues.Count > 0 && allEndValues.Any(x => x != allEndValues[0]))
             {
                 isLeaf = false;
             }
 
-            // create leaf with value to display and edge to the leaf
+            //צור עלה עם הערך 
             if (isLeaf)
             {
                 root.ChildNodes.Add(new TreeNode(true, allEndValues[0], attributeToCheck));
@@ -194,13 +193,13 @@ namespace Model
         {
             var smallerData = new DataTable();
 
-            // add column titles
+            //הוסף כותרות עמודות
             for (var i = 0; i < data.Columns.Count; i++)
             {
                 smallerData.Columns.Add(data.Columns[i].ToString());
             }
 
-            // add rows which contain edgePointingToNextNode to new datatable
+            // לטבלת נתונים חדשה edgePointingToNextNode  הוסף שורות המכילות  
             for (var i = 0; i < data.Rows.Count; i++)
             {
                 if (data.Rows[i][rootTableIndex].ToString().Equals(edgePointingToNextNode))
@@ -234,33 +233,45 @@ namespace Model
             var attributes = new List<MyAttribute>();
             var highestInformationGainIndex = -1;
             var highestInformationGain = double.MinValue;
-            
-            //   קבל את כל הערכים השונים עבור כל עמודה - תכונה      
-            for (var i = 0; i < data.Columns.Count - 1; i++)
+
+            //   קבל את כל הערכים השונים עבור כל עמודה - תכונה 
+            if (data.Columns.Count <= 1)
             {
-                var differentAttributevalues = MyAttribute.GetDifferentAttributeValuesOfColumn(data, i);
-                attributes.Add(new MyAttribute(data.Columns[i].ToString(), differentAttributevalues));
+                return null;
             }
-            
-            // חשב אנטרופיה
-            var tableEntropy = CalculateTableEntropy(data);
-
-            for (var i = 0; i < attributes.Count; i++)
+            else
             {
-                attributes[i].InformationGain = GetGainForAttribute(data, i, tableEntropy);
-
-                if (attributes[i].InformationGain > highestInformationGain)
+                for (var i = 0; i < data.Columns.Count - 1; i++)
                 {
-                    highestInformationGain = attributes[i].InformationGain;
-                    highestInformationGainIndex = i;
+                    var differentAttributevalues = MyAttribute.GetDifferentAttributeValuesOfColumn(data, i);
+                    attributes.Add(new MyAttribute(data.Columns[i].ToString(), differentAttributevalues));
                 }
+
+                // חשב אנטרופיה
+                var tableEntropy = CalculateTableEntropy(data);
+
+                for (var i = 0; i <= attributes.Count - 1; i++)
+                {
+                    if (i == 2078)
+                    {
+                        Console.WriteLine(" ");
+                    }
+                    attributes[i].InformationGain = GetGainForAttribute(data, i, tableEntropy);
+
+                    if (attributes[i].InformationGain > highestInformationGain)
+                    {
+                        highestInformationGain = attributes[i].InformationGain;
+                        highestInformationGainIndex = i;
+                    }
+                }
+                if (highestInformationGainIndex < 0)
+                {
+                    Console.WriteLine("aaa");
+                }
+                return new TreeNode(attributes[highestInformationGainIndex].Name, highestInformationGainIndex, attributes[highestInformationGainIndex], edge);
             }
-            if (highestInformationGainIndex<0)
-            {
-                Console.WriteLine("aaa");
-            }
-            return new TreeNode(attributes[highestInformationGainIndex].Name, highestInformationGainIndex, attributes[highestInformationGainIndex], edge);
         }
+
 
 
 
@@ -274,7 +285,7 @@ namespace Model
         private static double GetGainForAttribute(DataTable data, int colIndex, double entropyOfDataset)
         {
             var totalRows = data.Rows.Count;
-            var amountForDifferentValue = GetAmountOfEdgesAndTotalResults(data, colIndex);
+             var amountForDifferentValue = GetAmountOfEdgesAndTotalResults(data, colIndex);
             var stepsForCalculation = new List<double>();
 
             foreach (var item in amountForDifferentValue)
@@ -316,7 +327,7 @@ namespace Model
         {
             var totalRows = data.Rows.Count;
             var amountForDifferentValue = GetAmountOfEdgesAndTotalResults(data, data.Columns.Count - 1);
-
+            
             var stepsForCalculation = amountForDifferentValue
                 .Select(item => item[0, 0] / (double)totalRows)
                 .Select(division => division == 0 ? 0 : -division * Math.Log(division, 2))
@@ -356,27 +367,27 @@ namespace Model
                         amount++;
 
                         // Counts the  CompPrograming cases and adds the sum later to the array for the calculation
-                        if (data.Rows[i][data.Columns.Count - 1].ToString().Equals("CompPrograming"))
+                        if (data.Rows[i][data.Columns.Count - 1].ToString().Equals("CompProgramin"))
                         {
                             CompProgramingAmount++;
                         }
                         // Counts the Education cases and adds the sum later to the array for the calculation
-                        if (data.Rows[i][data.Columns.Count - 1].ToString().Equals("Education"))
+                        if (data.Rows[i][data.Columns.Count - 1].ToString().Equals("Educatio"))
                         {
                             EducationAmount++;
                         }
                         // Counts the OfficeManagement cases and adds the sum later to the array for the calculation
-                        if (data.Rows[i][data.Columns.Count - 1].ToString().Equals("OfficeManagement"))
+                        if (data.Rows[i][data.Columns.Count - 1].ToString().Equals("OfficeManagemen"))
                         {
                             OfficeManagementAmount++;
                         }
                         // Counts the Accounting cases and adds the sum later to the array for the calculation
-                        if (data.Rows[i][data.Columns.Count - 1].ToString().Equals("Accounting"))
+                        if (data.Rows[i][data.Columns.Count - 1].ToString().Equals("Accountin"))
                         {
                             AccountingAmount++;
                         }
                         // Counts the Architecture cases and adds the sum later to the array for the calculation
-                        if (data.Rows[i][data.Columns.Count - 1].ToString().Equals("Architecture"))
+                        if (data.Rows[i][data.Columns.Count - 1].ToString().Equals("Architectur"))
                         {
                             ArchitectureAmount++;
                         }
@@ -430,7 +441,7 @@ namespace Model
         static int staticRow;
         public static void SaveTreeIntoFile(TreeNode tree)
         { 
-            var path = @"my-files/DecisionTree.xlsx";
+            var path = @"my-files/trying.xlsx";
             var wbook = new XLWorkbook(path);
             var ws1 = wbook.Worksheet(1);
             staticRow = 1;
@@ -451,9 +462,9 @@ namespace Model
             ws.Cell(staticRow, 6).SetValue<int>(parentId);
             if (!tree.IsLeaf)
             {
-                RecToSaveTreeIntoFile(tree.ChildNodes[1], ws, tree.Id);
+                RecToSaveTreeIntoFile(tree.ChildNodes[0], ws, tree.Id);
                 if(tree.ChildNodes.Count>1)
-                    RecToSaveTreeIntoFile(tree.ChildNodes[2], ws, tree.Id);
+                    RecToSaveTreeIntoFile(tree.ChildNodes[1], ws, tree.Id);
             }
             }
         }
