@@ -409,7 +409,7 @@ namespace Model
 
 
         /// <summary>
-        ///  העמודה המסויימת- Attributeפונקציה שמחזירה רשימה של הערכים השונים של ה
+        ///  העמודה המסויימת - Attributeפונקציה שמחזירה רשימה של הערכים השונים של ה
         /// </summary>
         /// <param name="data">טבלת הנתונים</param>
         /// <param name="indexOfColumnToCheck">העמודה לבדיקה</param>
@@ -417,7 +417,7 @@ namespace Model
         {
             var knownValues = new List<string>();
 
-            // add the value of the first row to the list
+            //הוסף את הערך של השורה הראשונה לרשימה
             if (data.Rows.Count > 0)
             {
                 knownValues.Add(data.Rows[0][indexOfColumnToCheck].ToString());
@@ -441,7 +441,7 @@ namespace Model
         static int staticRow;
         public static void SaveTreeIntoFile(TreeNode tree)
         { 
-            var path = @"my-files/trying.xlsx";
+            var path = @"my-files/smallTree.xlsx";
             var wbook = new XLWorkbook(path);
             var ws1 = wbook.Worksheet(1);
             staticRow = 1;

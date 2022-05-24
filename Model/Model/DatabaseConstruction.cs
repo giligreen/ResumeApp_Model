@@ -31,8 +31,6 @@ namespace Model
                 .Union(Directory.GetFiles(folderPath, "*.doc", SearchOption.AllDirectories)).ToArray();
             return files;
         }
-
-
         /// <summary>
         /// פונקציה שמקבלת נתיב לקובץ אקסל שמכיל את נתיבי הקבצים בתקיה וסיווגם  
         ///  היא עוברת על השורות ובונה אובייקטים מסוג קורות חיים שיכילו
@@ -42,18 +40,15 @@ namespace Model
         /// <returns> resume מערך של אובייקטים מסוג  </returns>
         public static Resume[] BuildResumesObjects(string pathesDataBase)
         {
-
             var wbook = new XLWorkbook(pathesDataBase);
             var ws1 = wbook.Worksheet(1);
             Resume[] resumes = new Resume[ws1.RowsUsed().Count()];
-
             for (int i = 1; i <= ws1.RowsUsed().Count(); i++)
             {
                 string c = ws1.Cell(i, 2).GetValue<string>();
                 string path = ws1.Cell(i, 3).GetValue<string>();
                 resumes[i - 1] = new Resume(path, c);
             }
-
             return resumes;
         }
 
@@ -66,8 +61,7 @@ namespace Model
         /// <returns>נתיב לקובץ הטקסט החדש</returns>
         public static string ConvertFileToTextFile(String FilePath)
         {
-
-            var doc = new Document("my-files/Resume database/" + FilePath);
+            var doc = new Document(@"my-files/Resume database/" + FilePath);
             string newPath = "my-files/text files/" + Path.GetFileNameWithoutExtension(FilePath) + ".txt";
             doc.Save(newPath);
             return newPath;
@@ -128,7 +122,7 @@ namespace Model
         /// <param name="row">תחום הקו"ח - הכותרת לשורה - הסיווג של הקו"ח</param>
         public static void FeelExcelWithNewResumeWords(string ExcelFilePath, string[] word, string row)
         {   //עבודה עם closedxml
-
+            ExcelFilePath = @"my-files\‏‏DataBaseForClassification-tryAgain.xlsx";
             var wbook = new XLWorkbook(ExcelFilePath);
             var ws1 = wbook.Worksheet(1);
 
@@ -140,7 +134,6 @@ namespace Model
             {
                 ws1.Cell(newRow, k).Value = 0;
             }
-
             int WordColumn;
             bool wordExists = false;
             //מעבר על כל המילים במערך
@@ -185,28 +178,26 @@ namespace Model
                 wbook.Save();
             }
         }
-     
-        
-        
-        
+
+
+
+
         /// <summary>
-       ///DataTable פונקציה שמקבלת נתיב לקובץ ובונה ממנו 
-       /// </summary>
-       /// <param name="CSVFile">csv נתיב לקובץ</param>
-       /// <returns> עם כל הנתונים dataTable</returns>
+        ///  DataBase פונקציה שמקבלת נתיב לקובץ ממלאה אותו ובונה     
+        /// </summary>
+        /// <param name="DataBaseForClassification_ExcelFile">  excel נתיב לקובץ</param>
         public static void FillInDataBase(string DataBaseForClassification_ExcelFile)
         {
-
             string pathesDataBase = @"my-files\PathesDataBase.xlsx";
             Resume[] resumes =BuildResumesObjects(pathesDataBase);
             foreach (var item in resumes)
             {
                 string newPath = ConvertFileToTextFile(item.Path);
-               // List<string> words = DividingFileIntoWords(newPath);
-               // string[] wordsArray = words.ToArray();
-               // FeelExcelWithNewResumeWords(DataBaseForClassification_ExcelFile, wordsArray, item.Class);
+                List<string> words = DividingFileIntoWords(newPath);
+                string[] wordsArray = words.ToArray();
+                FeelExcelWithNewResumeWords(DataBaseForClassification_ExcelFile, wordsArray, item.Class);
             }
-            
+
         }
 
     }

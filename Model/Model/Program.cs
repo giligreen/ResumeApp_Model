@@ -7,10 +7,11 @@ namespace Model
     {
         static void Main(string[] args)
         {
-            //string DataBaseForClassification_ExcelFile = @"my-files\‏‏DataBaseForClassification.xlsx";
-            //   DatabaseConstruction.FillInDataBase(DataBaseForClassification_ExcelFile);
+          //string DataBaseForClassification_ExcelFile = @"my-files\‏‏DataBaseForClassification.xlsx";
+         // string DataBaseForClassification_ExcelFile = @"my-files\‏‏‏‏DataBaseForClassification-try again.xlsx";
+        // DatabaseConstruction.FillInDataBase(DataBaseForClassification_ExcelFile);
            
-            string DataBaseForClassification_CsvFile = @"my-files\FinialDataBaseForClassification.csv";
+            string DataBaseForClassification_CsvFile = @"my-files\smallDB.csv";
             //string DataBaseForClassification_CsvFile = @"my-files\smallDB.csv";
            
             DataTable db = CsvFileHandler.ImportFromCsvFile(DataBaseForClassification_CsvFile);
@@ -19,7 +20,7 @@ namespace Model
             //DecisionTree.Print(tree, tree.Name);
             DecisionTree.SaveTreeIntoFile(tree);
             DecisionTree t = new DecisionTree();
-            TreeNode tree2=t.LoadTreeFromFile(@"my-files/trying.xlsx");
+            TreeNode tree2=t.LoadTreeFromFile(@"my-files/smallTree.xlsx");
         }
     }
 }
